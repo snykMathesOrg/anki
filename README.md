@@ -12,6 +12,9 @@ Decks to be organized under SnykCollab - meaning:
 I think there would be a lot of Git merge conflicts to remediate?  
 Also, people can more easily only import into Anki the decks they are interested in.  For example, there might be an easy, medium, advanced deck as people onboard?  Maybe you only want to import the easy deck?
 
+# Why keep them in one big file?
+Anki has a method for updating internally from apkg format, maybe better just to use apkg format?
+
 # What is the folder structure?
 Not sure yet:
 Acronyms
