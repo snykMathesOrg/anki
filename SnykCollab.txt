@@ -4,77 +4,82 @@
 #notetype column:2
 #deck column:3
 #tags column:7
-c+5mA1rbK?	Basic	SnykCollab::Acronyms::Federal	Security Acronym: FISMA	&nbsp; Federal Information Security Management Act &nbsp;		
-NDK]*T=Fgy	Basic	SnykCollab::Acronyms::Federal	Security Acronym: FedRAMP JAB	Federal Risk Authorization Management Program, Join Authorization Board		
-DqH>*QV?vB	Basic	SnykCollab::Acronyms::Federal	FISMA acronym : CMVP	Cryptographic Module Validation Program		
-A)S^s%dMDy	Basic	SnykCollab::Acronyms::Federal	Security Acronym: NVLAP	National Voluntary Laboratory Accreditation Program		
-AJ4u^9$AQw	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::Acronyms::Tech	"Cloud acronym:&nbsp;<b><span style=""font-weight: 400;"">ACR</span></b>"	Azure Cloud Registry	4166320c-ed6f-44b2-8d2f-f6b861de05be	AnkiHub_Subdeck::SnykCollab::Acronyms
-v}*(Eye%vF	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::Acronyms::Tech	SSO acronym: ADFS	"<b><span style=""font-weight: 400;"">Active Directory Federation Services</span></b>"	982cd7f8-d635-4a10-9f08-f72b3ce19fdd	AnkiHub_Subdeck::SnykCollab::Acronyms
-hR,O*V;;Lo	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::Acronyms::Security	"Security acronym:&nbsp;<b><span style=""font-weight: 400;"">ASPM</span></b>"	"<b><div><span style=""font-weight: 400;"">Application Security Posture Management</span></div></b>"	3fa17c7b-df07-47b7-9988-fc93ff4ca1b3	AnkiHub_Subdeck::SnykCollab::Acronyms
-!KC={^^mw	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::Acronyms::Tech	Container Acronym: AKS	Azure Kubernetes Service	74067895-1693-4dde-9d68-2b8e47f8f59a	AnkiHub_Subdeck::SnykCollab::Acronyms
-tBQ:hA5Fjp	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::Acronyms::Tech	Programming bundle acronym: APK	Android Package Kit	b918aa78-2015-488b-8bbd-be19ebcad7a6	AnkiHub_Subdeck::SnykCollab::Acronyms
-wJ}R{mggaj	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::Acronyms::Tech	Package distribution acronym: apt	Advanced Package Tool	bd662272-24cf-437a-b1d8-1d3fe80896d5	AnkiHub_Subdeck::SnykCollab::Acronyms
-hnV&hFeL70	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::Acronyms::Tech	Cloud container acronym: ARM	Azure Resource Manager	9e621d78-9c6e-4469-8e4e-0bf2cd01346f	AnkiHub_Subdeck::SnykCollab::Acronyms
-lJKpaKA&sO	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::Acronyms::Security	"Security acronym:&nbsp;<b><span style=""font-weight: 400;"">CCSS</span></b>"	Common Configuration Scoring System	beb47b60-f687-4210-99d7-014e187b162a	AnkiHub_Subdeck::SnykCollab::Acronyms
-BfQvP%k~89	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::Acronyms::Tech	"Cloud acronym:&nbsp;<b><span style=""font-weight: 400;"">CDK</span></b>"	Cloud Development Kit	71fa98c8-4630-4072-a564-dacb93844b4b	AnkiHub_Subdeck::SnykCollab::Acronyms
-j:lbseyaV	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::Acronyms::Tech	Cloud deployment acronym: CNB	cloud native buildpacks	795159fb-e5fa-4ca9-8e35-6036cabbc9f6	AnkiHub_Subdeck::SnykCollab::Acronyms
-rlSjZuGVd~	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::Acronyms::Snyk	"Snyk: container acronym:&nbsp;<b><span style=""font-weight: 400;"">CRA</span></b>"	container registry agent	90805110-2468-4906-9e77-b3c3f5b64cbc	AnkiHub_Subdeck::SnykCollab::Acronyms
-rZ6og0=rqo	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::Acronyms::Security	"security acronym:&nbsp;<b><span style=""font-weight: 400;"">CVE</span></b>"	"<b><span style=""font-weight: 400;"">Common Vulnerabilities and Exposures</span></b>"	eda5b35b-f433-4b8f-bc7f-ac10bfa93186	AnkiHub_Subdeck::SnykCollab::Acronyms
-M&;m>4i2_p	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::Acronyms::Snyk	applications acronym: FF	feature flag	0f60bbe7-ff62-415b-bac8-11226f88bff0	AnkiHub_Subdeck::SnykCollab::Acronyms
-gYT9xMk-oV	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::Acronyms::Tech	"cloud acronym:&nbsp;<b><span style=""font-weight: 400;"">GCS</span></b>"	google cloud services	cc7dd3ad-dbcb-4f46-86fb-f91bd77ba14e	AnkiHub_Subdeck::SnykCollab::Acronyms
-vOwsO;B[X1	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::Acronyms::Tech	cloud container acronym: gcr	google container registry	f6029339-c83a-43db-9b41-dff4176c6262	AnkiHub_Subdeck::SnykCollab::Acronyms
-IYE+{bN/@[	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::Acronyms::Tech	cloud container acronym: GKE	google kubernetes engine	f2a23914-81e9-4265-91b3-dbeca2568af3	AnkiHub_Subdeck::SnykCollab::Acronyms
-qgS)uJ]YDt	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::Acronyms::Tech	license acronym: GPG	GNU Privacy guard	a03ffa4a-7f11-4ce7-880f-3733b5093fb8	AnkiHub_Subdeck::SnykCollab::Acronyms
-f9,;byN3TN	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::Acronyms::Tech	"IaC acronym:&nbsp;<b><span style=""font-weight: 400;"">HCL</span></b>"	"<b><span style=""font-weight: 400;"">HashiCorp Configuration Language (terraform)</span></b>"	0d6d0868-c4ef-42e1-b80d-0087b088d82e	AnkiHub_Subdeck::SnykCollab::Acronyms
-"zyD0L#Zz*)"	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::Acronyms::Tech	"SSO acronym:&nbsp;<b><span style=""font-weight: 400;"">OIDC</span></b>"	"<b><span style=""font-weight: 400;"">OpenID Connect</span></b>"	1849f51e-4e5c-4844-91a3-f92b37ccbef2	AnkiHub_Subdeck::SnykCollab::Acronyms
-g[Sy4}sx%P	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::Acronyms::Snyk	Acronym : SCA	Software composition analysis&nbsp;	0b7689a0-b144-4a55-a311-e1efb1cded8c	AnkiHub_Subdeck::SnykCollab::Acronyms
-"Bi.e&.S<#q"	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::Acronyms::Security	acronym: A prioritized list of the top 25 most dangerous software errors, compiled by the SANS Institute, aimed at helping developers and security professionals to address the most prevalent and critical programming errors.	SANS-25	48845732-a46e-40f6-b6ae-003029959ce6	AnkiHub_Subdeck::SnykCollab::Acronyms
-z~+HmL@&wA	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::Acronyms::Security	acronym: CWE	Common Weakness Enumeration	65252a33-d647-4f44-a314-28da8bba3317	AnkiHub_Subdeck::SnykCollab::Acronyms
-AUu~NLJjcy	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::Acronyms::Security	snyk acronym: sarif	static analysis results interchangeable format	bf707b8f-8a3b-4108-87aa-5a333cecd73b	AnkiHub_Subdeck::SnykCollab::Acronyms
-g-cAnV%Rwl	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::Acronyms::Security	acronym: OWASP	The&nbsp;<b>Open&nbsp;Web Application Security&nbsp;Project</b>	11fa1e1b-d229-4344-b316-17447c2ff51e	AnkiHub_Subdeck::SnykCollab::Acronyms
-)%d8X-u.T	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::Acronyms::Security	Acronym: what is XXE?	XML external entity injection	87e40e94-3cba-47d4-b87e-8e08df93d1c5	AnkiHub_Subdeck::SnykCollab::Acronyms
-"L#+^T/r;-R"	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::Acronyms::Snyk	Snyk - SLCE	Snyk Local Code Engine&nbsp;	8f99d828-a685-48df-a50f-4e3f3dd51aed	AnkiHub_Subdeck::SnykCollab::Acronyms
-"Ck}#i{yxP1"	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::Acronyms::Tech	Acronym: OCI	Open Container Iniative	359cc011-ac08-4e50-bdc9-df651240e09d	AnkiHub_Subdeck::SnykCollab::Acronyms
-J_Pk62{Nc:	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::Acronyms::Security	Security Acronym: NVD	<b>National Vulnerability Database</b>	93989356-efbc-44e7-a62c-8e3906922a6d	AnkiHub_Subdeck::SnykCollab::Acronyms
-fBomo,{1N~	Basic	SnykCollab::Acronyms::Tech::AWS	AWS acronym: EBS	"<b><span style=""font-weight: 400;"">AWS Elastic Block Store</span></b>"		
-j[hf,ypYrE	Basic	SnykCollab::Acronyms::Tech::AWS	"<b><span style=""font-weight: 400;"">AWS Acronym<br>:&nbsp;</span>ECR</b>"	"<b><span style=""font-weight: 400;"">AWS Elastic Container Registry</span></b>"		
-cLM`)V{V6j	Basic	SnykCollab::Acronyms::Tech::AWS	"AWS Acronym:<b><span style=""font-weight: 400;"">&nbsp;</span>ECS</b>"	"<b><span style=""font-weight: 400;"">AWS Elastic Container Service</span></b>"		
-M(F=,5p[-/	Basic	SnykCollab::Acronyms::Tech::AWS	AWS Acronym:&nbsp;<b>EFS</b>	"<b><span style=""font-weight: 400;"">AWS Elastic File System</span></b>"		
-b85MKE}`^Q	Basic	SnykCollab::Acronyms::Tech::AWS	AWS Acronym:&nbsp;<b>EKS</b>	<b>Amazon Elastic Kubernetes Service</b>		
-CBi?-Wh.E|	Basic	SnykCollab::Acronyms::Tech::AWS	"AWS Acronym:&nbsp;<b><span style=""font-weight: 400;"">KMS</span></b>"	"<b><span style=""font-weight: 400;"">AWS Key Management Service</span></b>"		
-sh5^k-_d<L	Basic	SnykCollab::Acronyms::Tech::AWS	AWS Acronym:&nbsp;<b>RDS</b>	"<b><span style=""font-weight: 400;"">AWS Relational Database Service</span></b>"		
-K+zOQ;RCtt	Basic	SnykCollab::Acronyms::Tech::AWS	"AWS Acronym:&nbsp;<b><span style=""font-weight: 400;"">SNS</span></b>"	<b>Simple Notification Service</b>		
-D6yfPj!fq[	Basic	SnykCollab::Acronyms::Tech::AWS	"AWS Acronym:&nbsp;<b><span style=""font-weight: 400;"">SQS</span></b>"	<b>Amazon Simple Queue Service</b>		
-"nLt12?{*E#"	Basic	SnykCollab::Acronyms::Tech::AWS	"AWS Acronym:&nbsp;<b><a href=""https://geekflare.com/virtual-private-cloud/""><span style=""font-weight: 400;"">AWS VPC</span></a></b>"	<b>Amazon Virtual Private Cloud</b>		
-J[$&XCZu2M	Basic	SnykCollab::Acronyms::Tech::AWS	"AWS Acronym:&nbsp;<b><a href=""https://geekflare.com/aws-cdk-vs-terraform/""><span style=""font-weight: 400;"">AWS CDK</span></a></b>"	<b>AWS Cloud Development Kit (CDK)</b>		
-rTO4tT(%n]	Basic	SnykCollab::Acronyms::Tech::AWS	"AWS Acronym:&nbsp;<b><span style=""font-weight: 400;"">AMI</span></b>"	"<b><span style=""font-weight: 400;"">Amazon Machine Image</span></b>"		
-J0n)BPwG@O	Basic	SnykCollab::Acronyms::Tech::AWS	"AWS Acronym:&nbsp;<b><span style=""font-weight: 400;"">ARN</span></b>"	<b>Amazon Resource Name</b>		
-y-[Cs]`+r9	Basic	SnykCollab::Acronyms::Tech::AWS	"AWS Acronym:&nbsp;<b><span style=""font-weight: 400;"">ASG</span></b>"	"<b><span style=""font-weight: 400;"">Auto Scaling Group</span></b>"		
-GXnvYIQ?*7	Basic	SnykCollab::Acronyms::Tech	Networking Acronym: CIDR	<b>Classless Inter-Domain Routing</b>		
-p^18H@iq[_	Basic	SnykCollab::Acronyms::Tech::AWS	"AWS Acronym:&nbsp;<b><span style=""font-weight: 400;"">CRR</span></b>"	"<b><span style=""font-weight: 400;"">Cross-Region Replication</span></b>"		
-L!P@EBN$jA	Basic	SnykCollab::Acronyms::Tech::AWS	AWS Acronym:&nbsp;<b>CMKs&nbsp;</b>	<b>Customer Master Key(s)</b>		
-iRuQyLI!,]	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::Acronyms::Tech	Acronym: SOQL	Salesforce Object Query Language	eb5aa6c1-f768-4b43-8d3f-4ff0e6667e42	AnkiHub_Subdeck::SnykCollab::Acronyms
-Gsk}/3v4b}	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::Acronyms::Tech	Acronym: SOQLi	Salesforce Object Query Language Injection	1266369b-27a4-4c14-8f1e-811f9da660ec	AnkiHub_Subdeck::SnykCollab::Acronyms
-lJ3fJS%WUv	Basic	SnykCollab::Acronyms::Security	Security Acronym: CVSS	Common Vulnerability Scoring System		
-l$@>W%2-yB	Basic	SnykCollab::Acronyms::Security	Security Acronym: OSVDB	Open Source Vulnerability Database		
-omor3+!7W+	Basic	SnykCollab::Acronyms::Security	Security Acronym:&nbsp;<b>CERT/CC</b>	"<a href=""https://en.wikipedia.org/wiki/Computer_emergency_response_team"">computer emergency response team</a>&nbsp;Coordination Center"		
-hdnwmtmm7q	Basic	SnykCollab::Acronyms::Security	Security Acronym: SEI	Software Engineering Intstitute		
-JTRyQT$K5^	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::Acronyms::Tech	Acronym: CSRF	Cross-Site Request Forgery	ccd843db-0627-43de-933e-42327a99e7c7	AnkiHub_Subdeck::SnykCollab::Acronyms
-gvmW~8WXm@	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::Acronyms::Security	Acronym: EPSS	<b>Exploit Prediction Scoring System</b>	ff5c2e4a-5ee5-4194-a159-a786f562a8e2	AnkiHub_Subdeck::SnykCollab::Acronyms
-zM-V;5*R4H	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::Acronyms::Security	Acronym: <b>ASOC</b>	<b>Application security orchestration and correlation</b>	9309dc68-8011-45ff-b642-dbaba62cda78	AnkiHub_Subdeck::SnykCollab::Acronyms
-e>IFX0nXbR	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::Acronyms::Tech	Acronym: GHAS	GitHub Advanced Security	094c281e-704c-4d3c-8771-2450e8e02d28	AnkiHub_Subdeck::SnykCollab::Acronyms
-rw,5/uo.Qj	Basic	SnykCollab::Acronyms::Security	Acronym: WIPO	World Intellectual Property Organization		
-xhSH-Od?iC	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::Acronyms::Security	Acronym: CNA	CVE Numbering Authority	16f8a18d-ef97-4d1f-86b5-06f604823996	AnkiHub_Subdeck::SnykCollab::Acronyms
-D;Zuivd4P7	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::Acronyms::Security	Security Acronym: SSRF	Server-Side Request Forgery	72fa2e0e-005b-4a63-940f-720f3b566ce5	AnkiHub_Subdeck::SnykCollab::Acronyms
-LBvc@(Pa~D	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::Acronyms::Security	Acronym: SSTI	Server-side Template Injection	0f40c988-a06c-40fa-a4fb-e20c3c393218	AnkiHub_Subdeck::SnykCollab::Acronyms
-Jf<S=h7KjD	Basic	SnykCollab::Acronyms::Security	Security&nbsp;Acronym: OCSF	"<a href=""https://schema.ocsf.io/"">Open Cybersecurity Schema Framework (OCSF)</a>"		
-gN7@9V!XGV	Basic	SnykCollab::Acronyms::Security	Security Acronym: ASFF	AWS Security Finding Format (ASFF)		
-zy-wZBdm!}	Basic	SnykCollab::Acronyms::Security	Security&nbsp;Acronym: ASFF is essentially v1 of ?	OCSF		
-"J?|$#cJ3#="	Basic	SnykCollab::Acronyms::Security	Security&nbsp;Acronym: OCSF is essentially v2 of ?	ASFF		
-I_O@haozN|	Basic	SnykCollab::Acronyms::Security	Security Acronym: DLP	Data loss prevention		
-nc%DHZss4W	Basic	SnykCollab::Acronyms::Security	Security Acronym: CIEM	Cloud Infrastructure Entitlements Management		
-G[lYrqqM[2	Basic	SnykCollab::Acronyms::Security	Security Acronym: CSPM	Cloud Security Posture Management		
-mF$+yA>*.=	Basic	SnykCollab::Acronyms::Security	Security Acronym: DSPM	Data Security Posture Management		
-"r:-#7^qM`t"	Basic	SnykCollab::Acronyms::Security	Security Acronym: KSPM	Kubernetes Security Posture Management		
-w}NcG1BE8F	Basic	SnykCollab::Acronyms::Security	Security Acronym: CWPP	Cloud Workload Protection Platform		
-VF/p7B`o~	Basic	SnykCollab::Acronyms::Security	Security Acronym: CNAPP	<b>Cloud Native Application Protection Platforms</b>		
+sGX5%}%9f^	Basic	SnykCollab::SecurityTopics::General	Security Acronym: SAST	Static Application Security Testing		
+A&d@M1Dbp)	Basic	SnykCollab::SecurityTopics::General	Acronym: AppSec	Application Security		
+e]kf,s?T(Z	Basic	SnykCollab::Snyk::ProductSpecific::Code	What does SAST scan ? (3 things)	application’s source, binary, or byte code		
+A-IYPm7v6c	Basic	SnykCollab::SecurityTopics::General	What is a security framework that scans&nbsp;an application’s source, binary, or byte code ?	SAST (Static Application Security Testing)		
+JYUsDx~5Ga	Basic	SnykCollab::SecurityTopics::General	Acronym: IAST	Interactive Application Security Testing		
+t(y;b%WV~l	Basic	SnykCollab::SecurityTopics::General	is IAST called grey/white/black testing ?	grey box testing		
+"nl#;4#Ukgs"	Basic	SnykCollab::SecurityTopics::General	What's a more official name for grey box testing?	IAST (Interactive Applicaion Security Testing)		
+QU.acr-6|^	Basic	SnykCollab::SecurityTopics::General	Acronym: DAST	Dynamic Application Security Testing		
+m0oy?yq74r	Basic	SnykCollab::SecurityTopics::General	DAST is black/white/grey security testing?	Black		
+p,DnZ6%Xe|	Basic	SnykCollab::SecurityTopics::General	what is dast also called?	black box testing		
+G!rd=beL_C	Basic	SnykCollab::salesMethodologies	what is the m in meddpicc	<strong>Metrics</strong>: Quantifiable goals the prospect wants to achieve		
+p}$/.UO*]?	Basic	SnykCollab::salesMethodologies	what is the e in meddpicc	<strong>Economic Buyer</strong>: The person with final purchasing authority		
+JxH&6II}k:	Basic	SnykCollab::salesMethodologies	what is the first d in meddpicc	<li><strong>Decision Criteria</strong>: Guidelines the prospect uses for buying</li>		
+zS?{gtl*x	Basic	SnykCollab::salesMethodologies	what is the 2nd d in meddpicc	<strong>Decision Process</strong>: Steps the prospect takes to make a decision		
+G=@;Gp=3n2	Basic	SnykCollab::salesMethodologies	what is the p in meddpicc	<strong>Paper Process</strong>: Administrative steps to finalise the deal		
+F!o3$!-zSt	Basic	SnykCollab::salesMethodologies	what is the i in meddpicc	<strong>Identify Pain</strong>: Challenges the prospect aims to solve		
+N*uIHJJ]LW	Basic	SnykCollab::salesMethodologies	what is the c in meddpicc	<strong>Champions</strong>: Internal advocates within the prospect's organisation		
+KqabP|M@Z!	Basic	SnykCollab::salesMethodologies	what is the second c in meddpicc	<strong>Competition</strong>: Who else is vying for the deal and how you compare		
+"PDnvK!w-#f"	Basic	SnykCollab::salesMethodologies	what is the 'n' in NEAT?	need		
+yjnacF3c$]	Basic	SnykCollab::salesMethodologies	what is the 'e' in NEAT?	Economic impact		
+o_@BIWnxQA	Basic	SnykCollab::salesMethodologies	what is the 'a' in NEAT?	Access to authority		
+N)alivpRq2	Basic	SnykCollab::salesMethodologies	what is the 't' in NEAT?	Timeline		
+yY=eF3U2jg	Basic	SnykCollab::salesMethodologies	why use meddpicc?	crucial checkpoint, ensuring that sales professionals don't just chase leads, but engage with high-quality prospects		
+c+5mA1rbK?	Basic	SnykCollab::SecurityTopics::Federal	Security Acronym: FISMA	&nbsp; Federal Information Security Management Act &nbsp;		
+M2Fu?yC7,P	Basic	SnykCollab::salesMethodologies	What’s the first priority in command the message ?	Be audible ready&nbsp;		
+qfAeJ*4Gt8	Basic	SnykCollab::salesMethodologies	In command of the message you must be audible ready to what ?	<em><strong>audible-ready</strong> to define your solutions to <strong>customer problems</strong></em>		
+t:pYE`pq~M	Basic	SnykCollab::salesMethodologies	In command the message , you define your solutions in what way?	Differentiate you from competitors&nbsp;		
+b;3Y.D>u<F	Basic	SnykCollab::salesMethodologies	In CommandOfTheMessage, what does differentiating your solution from your competitors allow you to do?	Charge a premium for your products and services		
+Hl<9rHz2kB	Basic	SnykCollab::salesMethodologies	What company focuses on Command of the message?	Force Management		
+k?-1Q-;syQ	Basic	SnykCollab::salesMethodologies	In Command of the Message, what do we sell solutions to?	Customers Problems		
+n|f5AWZC6<	Basic	SnykCollab::salesMethodologies	Command of the message - differentiate from...?	Competitors		
+A3R/s60Cnz	Basic	SnykCollab::salesMethodologies	Once you have Command of the Message, what are you able to do?	"<h3>""Charge a Premium""</h3>"		
+NDK]*T=Fgy	Basic	SnykCollab::SecurityTopics::Federal	Security Acronym: FedRAMP JAB	Federal Risk Authorization Management Program, Join Authorization Board		
+DqH>*QV?vB	Basic	SnykCollab::SecurityTopics::Federal	FISMA acronym : CMVP	Cryptographic Module Validation Program		
+A)S^s%dMDy	Basic	SnykCollab::SecurityTopics::Federal	Security Acronym: NVLAP	National Voluntary Laboratory Accreditation Program		
+v}*(Eye%vF	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::Snyk::TechWeUse::SSO	SSO acronym: ADFS	"<b><span style=""font-weight: 400;"">Active Directory Federation Services</span></b>"	982cd7f8-d635-4a10-9f08-f72b3ce19fdd	AnkiHub_Subdeck::SnykCollab::Acronyms
+hR,O*V;;Lo	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::SecurityTopics::General	"Security acronym:&nbsp;<b><span style=""font-weight: 400;"">ASPM</span></b>"	"<b><div><span style=""font-weight: 400;"">Application Security Posture Management</span></div></b>"	3fa17c7b-df07-47b7-9988-fc93ff4ca1b3	AnkiHub_Subdeck::SnykCollab::Acronyms
+lJKpaKA&sO	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::SecurityTopics::General	"Security acronym:&nbsp;<b><span style=""font-weight: 400;"">CCSS</span></b>"	Common Configuration Scoring System	beb47b60-f687-4210-99d7-014e187b162a	AnkiHub_Subdeck::SnykCollab::Acronyms
+rlSjZuGVd~	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::Snyk	"Snyk: container acronym:&nbsp;<b><span style=""font-weight: 400;"">CRA</span></b>"	container registry agent	90805110-2468-4906-9e77-b3c3f5b64cbc	AnkiHub_Subdeck::SnykCollab::Acronyms
+rZ6og0=rqo	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::SecurityTopics::General	"security acronym:&nbsp;<b><span style=""font-weight: 400;"">CVE</span></b>"	"<b><span style=""font-weight: 400;"">Common Vulnerabilities and Exposures</span></b>"	eda5b35b-f433-4b8f-bc7f-ac10bfa93186	AnkiHub_Subdeck::SnykCollab::Acronyms
+M&;m>4i2_p	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::Snyk	applications acronym: FF	feature flag	0f60bbe7-ff62-415b-bac8-11226f88bff0	AnkiHub_Subdeck::SnykCollab::Acronyms
+qgS)uJ]YDt	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::Snyk::TechWeUse	license acronym: GPG	GNU Privacy guard	a03ffa4a-7f11-4ce7-880f-3733b5093fb8	AnkiHub_Subdeck::SnykCollab::Acronyms
+f9,;byN3TN	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::Snyk::ProductSpecific::IAC	"IaC acronym:&nbsp;<b><span style=""font-weight: 400;"">HCL</span></b>"	"<b><span style=""font-weight: 400;"">HashiCorp Configuration Language (terraform)</span></b>"	0d6d0868-c4ef-42e1-b80d-0087b088d82e	AnkiHub_Subdeck::SnykCollab::Acronyms
+"zyD0L#Zz*)"	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::Snyk::TechWeUse::SSO	"SSO acronym:&nbsp;<b><span style=""font-weight: 400;"">OIDC</span></b>"	"<b><span style=""font-weight: 400;"">OpenID Connect</span></b>"	1849f51e-4e5c-4844-91a3-f92b37ccbef2	AnkiHub_Subdeck::SnykCollab::Acronyms
+g[Sy4}sx%P	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::SecurityTopics::General	Acronym : SCA	Software composition analysis&nbsp;	0b7689a0-b144-4a55-a311-e1efb1cded8c	AnkiHub_Subdeck::SnykCollab::Acronyms
+"Bi.e&.S<#q"	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::SecurityTopics::General	acronym: A prioritized list of the top 25 most dangerous software errors, compiled by the SANS Institute, aimed at helping developers and security professionals to address the most prevalent and critical programming errors.	SANS-25	48845732-a46e-40f6-b6ae-003029959ce6	AnkiHub_Subdeck::SnykCollab::Acronyms
+z~+HmL@&wA	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::SecurityTopics::General	acronym: CWE	Common Weakness Enumeration	65252a33-d647-4f44-a314-28da8bba3317	AnkiHub_Subdeck::SnykCollab::Acronyms
+AUu~NLJjcy	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::SecurityTopics::General	snyk acronym: sarif	static analysis results interchangeable format	bf707b8f-8a3b-4108-87aa-5a333cecd73b	AnkiHub_Subdeck::SnykCollab::Acronyms
+g-cAnV%Rwl	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::SecurityTopics::General	acronym: OWASP	The&nbsp;<b>Open&nbsp;Web Application Security&nbsp;Project</b>	11fa1e1b-d229-4344-b316-17447c2ff51e	AnkiHub_Subdeck::SnykCollab::Acronyms
+)%d8X-u.T	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::SecurityTopics::General	Acronym: what is XXE?	XML external entity injection	87e40e94-3cba-47d4-b87e-8e08df93d1c5	AnkiHub_Subdeck::SnykCollab::Acronyms
+"L#+^T/r;-R"	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::Snyk	Snyk - SLCE	Snyk Local Code Engine&nbsp;	8f99d828-a685-48df-a50f-4e3f3dd51aed	AnkiHub_Subdeck::SnykCollab::Acronyms
+"Ck}#i{yxP1"	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::SecurityTopics::General	Acronym: OCI	Open Container Iniative	359cc011-ac08-4e50-bdc9-df651240e09d	AnkiHub_Subdeck::SnykCollab::Acronyms
+J_Pk62{Nc:	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::SecurityTopics::General	Security Acronym: NVD	<b>National Vulnerability Database</b>	93989356-efbc-44e7-a62c-8e3906922a6d	AnkiHub_Subdeck::SnykCollab::Acronyms
+GXnvYIQ?*7	Basic	SnykCollab::SecurityTopics::General	Networking Acronym: CIDR	<b>Classless Inter-Domain Routing</b>		
+iRuQyLI!,]	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::Snyk::ProductSpecific::Code	Acronym: SOQL	Salesforce Object Query Language	eb5aa6c1-f768-4b43-8d3f-4ff0e6667e42	AnkiHub_Subdeck::SnykCollab::Acronyms
+Gsk}/3v4b}	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::Snyk::ProductSpecific::Code	Acronym: SOQLi	Salesforce Object Query Language Injection	1266369b-27a4-4c14-8f1e-811f9da660ec	AnkiHub_Subdeck::SnykCollab::Acronyms
+lJ3fJS%WUv	Basic	SnykCollab::SecurityTopics::General	Security Acronym: CVSS	Common Vulnerability Scoring System		
+l$@>W%2-yB	Basic	SnykCollab::SecurityTopics::General	Security Acronym: OSVDB	Open Source Vulnerability Database		
+omor3+!7W+	Basic	SnykCollab::SecurityTopics::General	Security Acronym:&nbsp;<b>CERT/CC</b>	"<a href=""https://en.wikipedia.org/wiki/Computer_emergency_response_team"">computer emergency response team</a>&nbsp;Coordination Center"		
+hdnwmtmm7q	Basic	SnykCollab::SecurityTopics::General	Security Acronym: SEI	Software Engineering Intstitute		
+JTRyQT$K5^	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::Snyk::ProductSpecific::Code	Acronym: CSRF	Cross-Site Request Forgery	ccd843db-0627-43de-933e-42327a99e7c7	AnkiHub_Subdeck::SnykCollab::Acronyms
+gvmW~8WXm@	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::SecurityTopics::General	Acronym: EPSS	<b>Exploit Prediction Scoring System</b>	ff5c2e4a-5ee5-4194-a159-a786f562a8e2	AnkiHub_Subdeck::SnykCollab::Acronyms
+zM-V;5*R4H	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::SecurityTopics::General	Acronym: <b>ASOC</b>	<b>Application security orchestration and correlation</b>	9309dc68-8011-45ff-b642-dbaba62cda78	AnkiHub_Subdeck::SnykCollab::Acronyms
+e>IFX0nXbR	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::Snyk::ProductSpecific::Code	Acronym: GHAS	GitHub Advanced Security	094c281e-704c-4d3c-8771-2450e8e02d28	AnkiHub_Subdeck::SnykCollab::Acronyms
+rw,5/uo.Qj	Basic	SnykCollab::SecurityTopics::General	Acronym: WIPO	World Intellectual Property Organization		
+xhSH-Od?iC	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::SecurityTopics::General	Acronym: CNA	CVE Numbering Authority	16f8a18d-ef97-4d1f-86b5-06f604823996	AnkiHub_Subdeck::SnykCollab::Acronyms
+D;Zuivd4P7	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::SecurityTopics::General	Security Acronym: SSRF	Server-Side Request Forgery	72fa2e0e-005b-4a63-940f-720f3b566ce5	AnkiHub_Subdeck::SnykCollab::Acronyms
+LBvc@(Pa~D	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::SecurityTopics::General	Acronym: SSTI	Server-side Template Injection	0f40c988-a06c-40fa-a4fb-e20c3c393218	AnkiHub_Subdeck::SnykCollab::Acronyms
+Jf<S=h7KjD	Basic	SnykCollab::SecurityTopics::General	Security&nbsp;Acronym: OCSF	"<a href=""https://schema.ocsf.io/"">Open Cybersecurity Schema Framework (OCSF)</a>"		
+gN7@9V!XGV	Basic	SnykCollab::SecurityTopics::General	Security Acronym: ASFF	AWS Security Finding Format (ASFF)		
+zy-wZBdm!}	Basic	SnykCollab::SecurityTopics::General	Security&nbsp;Acronym: ASFF is essentially v1 of ?	OCSF		
+"J?|$#cJ3#="	Basic	SnykCollab::SecurityTopics::General	Security&nbsp;Acronym: OCSF is essentially v2 of ?	ASFF		
+I_O@haozN|	Basic	SnykCollab::SecurityTopics::General	Security Acronym: DLP	Data loss prevention		
+nc%DHZss4W	Basic	SnykCollab::SecurityTopics::General	Security Acronym: CIEM	Cloud Infrastructure Entitlements Management		
+G[lYrqqM[2	Basic	SnykCollab::SecurityTopics::General	Security Acronym: CSPM	Cloud Security Posture Management		
+mF$+yA>*.=	Basic	SnykCollab::SecurityTopics::General	Security Acronym: DSPM	Data Security Posture Management		
+"r:-#7^qM`t"	Basic	SnykCollab::SecurityTopics::General	Security Acronym: KSPM	Kubernetes Security Posture Management		
+w}NcG1BE8F	Basic	SnykCollab::SecurityTopics::General	Security Acronym: CWPP	Cloud Workload Protection Platform		
+VF/p7B`o~	Basic	SnykCollab::SecurityTopics::General	Security Acronym: CNAPP	<b>Cloud Native Application Protection Platforms</b>		
