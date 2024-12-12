@@ -4,6 +4,10 @@
 #notetype column:2
 #deck column:3
 #tags column:7
+c+5mA1rbK?	Basic	SnykCollab::Acronyms::Federal	Security Acronym: FISMA	&nbsp; Federal Information Security Management Act &nbsp;		
+NDK]*T=Fgy	Basic	SnykCollab::Acronyms::Federal	Security Acronym: FedRAMP JAB	Federal Risk Authorization Management Program, Join Authorization Board		
+DqH>*QV?vB	Basic	SnykCollab::Acronyms::Federal	FISMA acronym : CMVP	Cryptographic Module Validation Program		
+A)S^s%dMDy	Basic	SnykCollab::Acronyms::Federal	Security Acronym: NVLAP	National Voluntary Laboratory Accreditation Program		
 AJ4u^9$AQw	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::Acronyms::Tech	"Cloud acronym:&nbsp;<b><span style=""font-weight: 400;"">ACR</span></b>"	Azure Cloud Registry	4166320c-ed6f-44b2-8d2f-f6b861de05be	AnkiHub_Subdeck::SnykCollab::Acronyms
 v}*(Eye%vF	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::Acronyms::Tech	SSO acronym: ADFS	"<b><span style=""font-weight: 400;"">Active Directory Federation Services</span></b>"	982cd7f8-d635-4a10-9f08-f72b3ce19fdd	AnkiHub_Subdeck::SnykCollab::Acronyms
 hR,O*V;;Lo	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::Acronyms::Security	"Security acronym:&nbsp;<b><span style=""font-weight: 400;"">ASPM</span></b>"	"<b><div><span style=""font-weight: 400;"">Application Security Posture Management</span></div></b>"	3fa17c7b-df07-47b7-9988-fc93ff4ca1b3	AnkiHub_Subdeck::SnykCollab::Acronyms
@@ -32,12 +36,45 @@ g-cAnV%Rwl	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::Acronyms::Secu
 "L#+^T/r;-R"	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::Acronyms::Snyk	Snyk - SLCE	Snyk Local Code Engine&nbsp;	8f99d828-a685-48df-a50f-4e3f3dd51aed	AnkiHub_Subdeck::SnykCollab::Acronyms
 "Ck}#i{yxP1"	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::Acronyms::Tech	Acronym: OCI	Open Container Iniative	359cc011-ac08-4e50-bdc9-df651240e09d	AnkiHub_Subdeck::SnykCollab::Acronyms
 J_Pk62{Nc:	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::Acronyms::Security	Security Acronym: NVD	<b>National Vulnerability Database</b>	93989356-efbc-44e7-a62c-8e3906922a6d	AnkiHub_Subdeck::SnykCollab::Acronyms
+fBomo,{1N~	Basic	SnykCollab::Acronyms::Tech::AWS	AWS acronym: EBS	"<b><span style=""font-weight: 400;"">AWS Elastic Block Store</span></b>"		
+j[hf,ypYrE	Basic	SnykCollab::Acronyms::Tech::AWS	"<b><span style=""font-weight: 400;"">AWS Acronym<br>:&nbsp;</span>ECR</b>"	"<b><span style=""font-weight: 400;"">AWS Elastic Container Registry</span></b>"		
+cLM`)V{V6j	Basic	SnykCollab::Acronyms::Tech::AWS	"AWS Acronym:<b><span style=""font-weight: 400;"">&nbsp;</span>ECS</b>"	"<b><span style=""font-weight: 400;"">AWS Elastic Container Service</span></b>"		
+M(F=,5p[-/	Basic	SnykCollab::Acronyms::Tech::AWS	AWS Acronym:&nbsp;<b>EFS</b>	"<b><span style=""font-weight: 400;"">AWS Elastic File System</span></b>"		
+b85MKE}`^Q	Basic	SnykCollab::Acronyms::Tech::AWS	AWS Acronym:&nbsp;<b>EKS</b>	<b>Amazon Elastic Kubernetes Service</b>		
+CBi?-Wh.E|	Basic	SnykCollab::Acronyms::Tech::AWS	"AWS Acronym:&nbsp;<b><span style=""font-weight: 400;"">KMS</span></b>"	"<b><span style=""font-weight: 400;"">AWS Key Management Service</span></b>"		
+sh5^k-_d<L	Basic	SnykCollab::Acronyms::Tech::AWS	AWS Acronym:&nbsp;<b>RDS</b>	"<b><span style=""font-weight: 400;"">AWS Relational Database Service</span></b>"		
+K+zOQ;RCtt	Basic	SnykCollab::Acronyms::Tech::AWS	"AWS Acronym:&nbsp;<b><span style=""font-weight: 400;"">SNS</span></b>"	<b>Simple Notification Service</b>		
+D6yfPj!fq[	Basic	SnykCollab::Acronyms::Tech::AWS	"AWS Acronym:&nbsp;<b><span style=""font-weight: 400;"">SQS</span></b>"	<b>Amazon Simple Queue Service</b>		
+"nLt12?{*E#"	Basic	SnykCollab::Acronyms::Tech::AWS	"AWS Acronym:&nbsp;<b><a href=""https://geekflare.com/virtual-private-cloud/""><span style=""font-weight: 400;"">AWS VPC</span></a></b>"	<b>Amazon Virtual Private Cloud</b>		
+J[$&XCZu2M	Basic	SnykCollab::Acronyms::Tech::AWS	"AWS Acronym:&nbsp;<b><a href=""https://geekflare.com/aws-cdk-vs-terraform/""><span style=""font-weight: 400;"">AWS CDK</span></a></b>"	<b>AWS Cloud Development Kit (CDK)</b>		
+rTO4tT(%n]	Basic	SnykCollab::Acronyms::Tech::AWS	"AWS Acronym:&nbsp;<b><span style=""font-weight: 400;"">AMI</span></b>"	"<b><span style=""font-weight: 400;"">Amazon Machine Image</span></b>"		
+J0n)BPwG@O	Basic	SnykCollab::Acronyms::Tech::AWS	"AWS Acronym:&nbsp;<b><span style=""font-weight: 400;"">ARN</span></b>"	<b>Amazon Resource Name</b>		
+y-[Cs]`+r9	Basic	SnykCollab::Acronyms::Tech::AWS	"AWS Acronym:&nbsp;<b><span style=""font-weight: 400;"">ASG</span></b>"	"<b><span style=""font-weight: 400;"">Auto Scaling Group</span></b>"		
+GXnvYIQ?*7	Basic	SnykCollab::Acronyms::Tech	Networking Acronym: CIDR	<b>Classless Inter-Domain Routing</b>		
+p^18H@iq[_	Basic	SnykCollab::Acronyms::Tech::AWS	"AWS Acronym:&nbsp;<b><span style=""font-weight: 400;"">CRR</span></b>"	"<b><span style=""font-weight: 400;"">Cross-Region Replication</span></b>"		
+L!P@EBN$jA	Basic	SnykCollab::Acronyms::Tech::AWS	AWS Acronym:&nbsp;<b>CMKs&nbsp;</b>	<b>Customer Master Key(s)</b>		
 iRuQyLI!,]	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::Acronyms::Tech	Acronym: SOQL	Salesforce Object Query Language	eb5aa6c1-f768-4b43-8d3f-4ff0e6667e42	AnkiHub_Subdeck::SnykCollab::Acronyms
 Gsk}/3v4b}	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::Acronyms::Tech	Acronym: SOQLi	Salesforce Object Query Language Injection	1266369b-27a4-4c14-8f1e-811f9da660ec	AnkiHub_Subdeck::SnykCollab::Acronyms
+lJ3fJS%WUv	Basic	SnykCollab::Acronyms::Security	Security Acronym: CVSS	Common Vulnerability Scoring System		
+l$@>W%2-yB	Basic	SnykCollab::Acronyms::Security	Security Acronym: OSVDB	Open Source Vulnerability Database		
+omor3+!7W+	Basic	SnykCollab::Acronyms::Security	Security Acronym:&nbsp;<b>CERT/CC</b>	"<a href=""https://en.wikipedia.org/wiki/Computer_emergency_response_team"">computer emergency response team</a>&nbsp;Coordination Center"		
+hdnwmtmm7q	Basic	SnykCollab::Acronyms::Security	Security Acronym: SEI	Software Engineering Intstitute		
 JTRyQT$K5^	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::Acronyms::Tech	Acronym: CSRF	Cross-Site Request Forgery	ccd843db-0627-43de-933e-42327a99e7c7	AnkiHub_Subdeck::SnykCollab::Acronyms
 gvmW~8WXm@	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::Acronyms::Security	Acronym: EPSS	<b>Exploit Prediction Scoring System</b>	ff5c2e4a-5ee5-4194-a159-a786f562a8e2	AnkiHub_Subdeck::SnykCollab::Acronyms
 zM-V;5*R4H	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::Acronyms::Security	Acronym: <b>ASOC</b>	<b>Application security orchestration and correlation</b>	9309dc68-8011-45ff-b642-dbaba62cda78	AnkiHub_Subdeck::SnykCollab::Acronyms
 e>IFX0nXbR	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::Acronyms::Tech	Acronym: GHAS	GitHub Advanced Security	094c281e-704c-4d3c-8771-2450e8e02d28	AnkiHub_Subdeck::SnykCollab::Acronyms
+rw,5/uo.Qj	Basic	SnykCollab::Acronyms::Security	Acronym: WIPO	World Intellectual Property Organization		
 xhSH-Od?iC	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::Acronyms::Security	Acronym: CNA	CVE Numbering Authority	16f8a18d-ef97-4d1f-86b5-06f604823996	AnkiHub_Subdeck::SnykCollab::Acronyms
 D;Zuivd4P7	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::Acronyms::Security	Security Acronym: SSRF	Server-Side Request Forgery	72fa2e0e-005b-4a63-940f-720f3b566ce5	AnkiHub_Subdeck::SnykCollab::Acronyms
 LBvc@(Pa~D	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::Acronyms::Security	Acronym: SSTI	Server-side Template Injection	0f40c988-a06c-40fa-a4fb-e20c3c393218	AnkiHub_Subdeck::SnykCollab::Acronyms
+Jf<S=h7KjD	Basic	SnykCollab::Acronyms::Security	Security&nbsp;Acronym: OCSF	"<a href=""https://schema.ocsf.io/"">Open Cybersecurity Schema Framework (OCSF)</a>"		
+gN7@9V!XGV	Basic	SnykCollab::Acronyms::Security	Security Acronym: ASFF	AWS Security Finding Format (ASFF)		
+zy-wZBdm!}	Basic	SnykCollab::Acronyms::Security	Security&nbsp;Acronym: ASFF is essentially v1 of ?	OCSF		
+"J?|$#cJ3#="	Basic	SnykCollab::Acronyms::Security	Security&nbsp;Acronym: OCSF is essentially v2 of ?	ASFF		
+I_O@haozN|	Basic	SnykCollab::Acronyms::Security	Security Acronym: DLP	Data loss prevention		
+nc%DHZss4W	Basic	SnykCollab::Acronyms::Security	Security Acronym: CIEM	Cloud Infrastructure Entitlements Management		
+G[lYrqqM[2	Basic	SnykCollab::Acronyms::Security	Security Acronym: CSPM	Cloud Security Posture Management		
+mF$+yA>*.=	Basic	SnykCollab::Acronyms::Security	Security Acronym: DSPM	Data Security Posture Management		
+"r:-#7^qM`t"	Basic	SnykCollab::Acronyms::Security	Security Acronym: KSPM	Kubernetes Security Posture Management		
+w}NcG1BE8F	Basic	SnykCollab::Acronyms::Security	Security Acronym: CWPP	Cloud Workload Protection Platform		
+VF/p7B`o~	Basic	SnykCollab::Acronyms::Security	Security Acronym: CNAPP	<b>Cloud Native Application Protection Platforms</b>		
