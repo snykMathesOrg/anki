@@ -1,0 +1,35 @@
+#separator:tab
+#html:true
+#guid column:1
+#notetype column:2
+#deck column:3
+#tags column:6
+"GtYzDy#YDA"	Basic	SnykAdjacent::BuildTools::Harness::HarnessFeatureFlag	What is Harness Feature Flags?	Harness Feature Flags (FF) is a feature management solution with smart capabilities	
+"u)#2%u+vh7"	Basic	SnykAdjacent::BuildTools::Harness::HarnessFeatureFlag	What are the 4 strategies harness feature flags enable?	"<ul>
+<li>Who gets access to the feature first</li>
+<li>Who can test the changes</li>
+<li>Progressive rollouts of the feature</li>
+<li>Turn on a feature on a specific date</li></ul>"	
+s<!1F2oWQM	Basic	SnykAdjacent::BuildTools::Harness	What company created CloudAbility?	Apptio	
+PZ_O]jo=6U	Basic	SnykAdjacent::BuildTools::Harness	What does cloudAbility enable?	Enable IT, finance, and DevOps teams to work together to optimize cloud resources for speed, cost, and quality.	
+Qn%HD^W5Jk	Basic	SnykAdjacent::BuildTools::Harness	What are two competitors Harness finops replaced?	CloudAbility and Turbonomic	
+iQGY)uAsy	Basic	SnykAdjacent::BuildTools::Harness	Who owns&nbsp;<b>Turbonomic?</b>	IBM	
+tm|,7j^^Oo	Basic	SnykAdjacent::BuildTools::Harness	Who owns Apptio?	IBM	
+J=bW<nSZeS	Basic	SnykAdjacent::BuildTools::Harness	What was Turbonomic originally called?	<b>VMTurbo</b>	
+IuA9DRx|6+	Basic	SnykAdjacent::BuildTools::Harness	What does Turbonomic do?	"<b>Turbonomic</b> is a <a href=""https://en.wikipedia.org/wiki/Supply_and_demand"">resource-simulation</a> <a href=""https://en.wikipedia.org/wiki/Software"">software</a>"	
+uP)Bm!rP}I	Basic	SnykAdjacent::BuildTools::Harness	What does kubecost do?	<h2>Monitor &amp; reduce Kubernetes spend</h2>	
+ie@0GE[qyW	Basic	SnykAdjacent::BuildTools::Harness	What is kubecost?	Kubecost started in early 2019 as an open-source tool to give developers visibility into Kubernetes spend.	
+cx+9lo<%0/	Basic	SnykAdjacent::BuildTools::Harness	What is open tofu?	<div><b>An Open Source Alternative to Terraform</b><br></div>	
+gr.ZIqgh-L	Basic	SnykAdjacent::BuildTools::Harness	When was open tofu created?	2023	
+pQo*`N|lDP	Basic	SnykAdjacent::BuildTools::Harness	What are some supporters of Open Tofu?	Harness, Gruntwork, Spacelift, env0, Scalr, Digger, Terrateam	
+GA{T_;=A;y	Basic	SnykAdjacent::BuildTools::Harness	What is terramate?	Code Generator and orchestrator for Terraform	
+I|NQ|!`W/$	Basic	SnykAdjacent::BuildTools::Harness	What 5 capabilities does terramate add to terraform?	code generation, stacks, orchestration, change detection, data sharing	
+xIv)?,t&<v	Basic	SnykAdjacent::BuildTools::Harness	what is Gruntworks?	<strong>Gruntwork is a “DevOps accelerator” (quickly gets teams started in greenfield environments)</strong>	
+mHN|Nc[0OS	Basic	SnykAdjacent::BuildTools::Harness	Spacelift: What type of platform is it?	a sophisticated CI/CD platform	
+s?hk=(}4`{	Basic	SnykAdjacent::BuildTools::Harness	what is env0 software?	automate and manage at scale	
+Mf=WyG6&JN	Basic	SnykAdjacent::BuildTools::Harness	what IaC Frameworks does env0 work with?	Works with every Infrastructure-as-Code framework: <br>Terraform, OpenTofu, Pulumi, CloudFormation	
+q;&n5p1`o]	Basic	SnykAdjacent::BuildTools::Harness	what is Scalr software?	Everything you need to scale terraform	
+oqx$*d&wD*	Basic	SnykAdjacent::BuildTools::Harness	what is Digger software?	Digger is an open source IaC orchestration tool	
+"pa!RFAPj6#"	Basic	SnykAdjacent::BuildTools::Harness	what are the main two digger components?	cli - for running from your ci/cd, and orchestration hub (can be self-hosted) for handling events	
+JfjrDe|]1L	Basic	SnykAdjacent::BuildTools::Harness	what is terrateam software?	<div><b>Terrateam makes infrastructure management manageable with enterprise-grade Terraform and OpenTofu automation on GitHub</b></div>	
+omAYf%>P%1	Basic	SnykAdjacent::BuildTools::Harness	what is massdrive software?	<div><b>Massdriver is a single pane of glass for managing infrastructure and services from design through day two</b></div>	

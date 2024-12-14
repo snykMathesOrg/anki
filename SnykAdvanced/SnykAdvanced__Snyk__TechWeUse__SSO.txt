@@ -1,0 +1,14 @@
+#separator:tab
+#html:true
+#guid column:1
+#notetype column:2
+#deck column:3
+#tags column:6
+sX<6TpXE?h	Basic	SnykAdvanced::Snyk::TechWeUse::SSO	SAML: Request/Response Param: Newly generated number for identification	ID	
+BUtx)SUC?<	Basic	SnykAdvanced::Snyk::TechWeUse::SSO	SAML: Request/Response Param: Timestamp to indicate the time it was generated	<strong>IssueInstant</strong>	
+yYlo{+A%Eh	Basic	SnykAdvanced::Snyk::TechWeUse::SSO	SAML: Request/Response Param: The SAML URL interface of the service provider, where the Identity provider sends the authentication token.	<strong>AssertionConsumerServiceURL</strong>	
+FDn@Z+2iHe	Basic	SnykAdvanced::Snyk::TechWeUse::SSO	SAML: Request/Response Param: The EntityID (unique identifier) issuing the reponse (idp or sp)	Issuer	
+"y|]az#x(2-"	Basic	SnykAdvanced::Snyk::TechWeUse::SSO	<div>SAML: Request/Response Param: The ID of the SAML request that this response belongs to</div>	<strong>InResponseTo</strong>	
+"Q#uriJm`~&"	Basic	SnykAdvanced::Snyk::TechWeUse::SSO	SAML: Request/Response Param: The EntityID (unique identifier) of the service provider	<strong>Recipient</strong>	
+vBIh:sI{$l	Basic	SnykAdvanced::Snyk::TechWeUse::SSO	SSO: in IdP, Audience is often called ___ ?	urn	
+i.7xh|t<()	Basic	SnykAdvanced::Snyk::TechWeUse::SSO	SSO: in IdP, URN is often called ___ ?	Audience	
