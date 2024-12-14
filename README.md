@@ -10,9 +10,9 @@ Place to create and manage Snyk related Anki material for onboarding, study, kno
 - Add disabled policy to any decks you don't want to study?
 
 # What is the organization ?
-Decks to be organized under SnykCollab - meaning:
-- in Anki they show up as SnykCollab::SubDeck
-- In git they show up as SnykCollab-Subdeck.txt
+Decks to be organized under umbrella folders, SnykAdvanced, SnykAdjacent, etc - meaning:
+- in Anki they show up as SnykAdvanced::SubDeck::Child
+- In git they show up as SnykAdvanced__Subdeck__Child.txt
 
 # Why keep them in one big file?
 - You can import everything at once, these are in the base folder
