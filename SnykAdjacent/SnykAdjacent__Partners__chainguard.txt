@@ -1,0 +1,86 @@
+#separator:tab
+#html:true
+#guid column:1
+#notetype column:2
+#deck column:3
+#tags column:6
+uQZ~H}r6x<	Basic	SnykAdjacent::Partners::chainguard	What is chain guard?	<h2>A control plane for your software supply chain</h2>	
+v2g/7?2X}7	Basic	SnykAdjacent::Partners::chainguard	What are 3 things chainguard does generally?	&nbsp; Know what’s in your supply chain. Fix your vulnerable software. Enforce policies to keep software secure.&nbsp;	
+PJfjKIeG)D	Basic	SnykAdjacent::Partners::chainguard	what kind of container images does chainguard support?	<h2>hardened, minimal container images</h2>	
+NLNY/1)2}G	Basic	SnykAdjacent::Partners::chainguard	what does chainguard think about shifting left?	<h2>No more shifting left, only starting left</h2>	
+F5wt*Gee}u	Basic	SnykAdjacent::Partners::chainguard	what percent fewer vulns do chainguard images give you over standard images?	97.6% fewer vulnerabilities	
+z-srY{vw.~	Basic	SnykAdjacent::Partners::chainguard	what 3 federal compliance certifications might chainguard help you reach?	NIST 800-53, FedRAMP, or StateRAMP	
+m?Uha=>ZIU	Basic	SnykAdjacent::Partners::chainguard	what is NIST 800-53?	"NIST Special Publication 800-53 is an 
+information security standard"	
+OSz>l!zA_E	Basic	SnykAdjacent::Partners::chainguard	what does NIST stand for?	National Institute of Standards and Technology, which is a non-regulatory agency of the United States Department of Commerce	
+G?bT/f77<B	Basic	SnykAdjacent::Partners::chainguard	what does fedramp stand for?	Federal Risk and Authorization Management Program	
+JyMRDQj42T	Basic	SnykAdjacent::Partners::chainguard	when was fedramp established?	2011	
+OJ.Rj3ehse	Basic	SnykAdjacent::Partners::chainguard	what is fedramp intended to do?	provide a cost-effective, risk-based approach for the adoption and use of cloud services by the federal government	
+lxh<~oCci	Basic	SnykAdjacent::Partners::chainguard	what is&nbsp;StateRAMP	As a 501(c)6 nonprofit,	
+dSDf{5k5?/	Basic	SnykAdjacent::Partners::chainguard	What are some important states part of stateRAMP?	CA, CO, TX, NY	
+Ec}>O0@,vF	Basic	SnykAdjacent::Partners::chainguard	What are 3 specific ways chainguard images help your organization?	Reduce your attack surface, get rapid updates and patches, increase developer velocity	
+ms*D:p9$,]	Basic	SnykAdjacent::Partners::chainguard	how does chainguard help you reduce your attack surface?	build with images designed for minimalism and security	
+s*f/tq5+$)	Basic	SnykAdjacent::Partners::chainguard	how does chainguard ensure rapid updates and patches?	chainguard images are rebuilt daily, contain most up to date patches, and aim to have zero known CVEs	
+BeOuh)f]cu	Basic	SnykAdjacent::Partners::chainguard	what does CVE stand for?	Common Vulnerabilities and Exposure	
+"Bi`oqP[#rN"	Basic	SnykAdjacent::Partners::chainguard	How does chainguard increase developer velocity?	Build and deploy images receive faster updates and remediated CVEs without sacrficing developer productivity	
+iit_XVyqQ%	Basic	SnykAdjacent::Partners::chainguard	"what are 3 things ""quiet"" chainguard base images enable?"	reduce security debt, decrease the developer’s workload, and improve development velocity.	
+yZkTX<FSE%	Basic	SnykAdjacent::Partners::chainguard	how do teams try to remediate vulnerabilities in containers?	software teams increasingly use container security scanners	
+C`R9sv~qf2	Basic	SnykAdjacent::Partners::chainguard	what problems arise from using container security scanners?	these scanners are noisy, regularly issuing false positives and increasing security debt	
+zy!p61KYrQ	Basic	SnykAdjacent::Partners::chainguard	what can some popular base images have, such as ubuntu, debian?	Some popular base images can have hundreds of known security vulnerabilities.<br>Some base images have vulnerabilities that were first reported almost twenty years ago.	
+k~X=,AeY:G	Basic	SnykAdjacent::Partners::chainguard	what is an SBOM?	oftware bill of materials,	
+E$7$vY^Dc]	Basic	SnykAdjacent::Partners::chainguard	what are the top 4 popular base images by operating system on github?	alpine, ubuntu, debian, centos	
+z5[XBdZ_T1	Basic	SnykAdjacent::Partners::chainguard	what is alpine OS?	<h3>Alpine Linux is a security-oriented, lightweight Linux distribution based on musl libc and busybox</h3>	
+"x|%i=]Y$V#"	Basic	SnykAdjacent::Partners::chainguard	what are three popular static analysis tools for container security?	three-trivy, grype, snyk	
+Lk*u*t_zQ2	Basic	SnykAdjacent::Partners::chainguard	what is three-trivy?	Trivy is a simple and comprehensive vulnerability scanner for container images, file systems, and application dependencies	
+gUW5HE,)V$	Basic	SnykAdjacent::Partners::chainguard	who is trivy developed by?	Trivy, developed by Aqua Security	
+mr$4QFOc+Q	Basic	SnykAdjacent::Partners::chainguard	what are 3 popular container registries?	Docker Hub, Google Container Registry, and Amazon Elastic Container Registry	
+u~*!@4jd4N	Basic	SnykAdjacent::Partners::chainguard	What is Clair?	"Clair is an <a href=""https://www.redhat.com/en/topics/open-source/what-is-open-source-software"">open source</a> project which provides a tool to monitor the security of your <a href=""https://www.redhat.com/en/topics/containers/whats-a-linux-container"">containers</a> through the static analysis of vulnerabilities in appc and <a href=""https://www.redhat.com/en/topics/containers/what-is-docker"">docker</a> containers."	
+d@we4GG[l$	Basic	SnykAdjacent::Partners::chainguard	Who supports Clair security scanner?	Redhat	
+nj{mtNylG;	Basic	SnykAdjacent::Partners::chainguard	what is Project Quay?	Project Quay is the&nbsp;<strong>open source distribution of Red Hat Quay</strong>&nbsp;optimized for the secure distribution of container images no matter whether you are scaling from a small department to the public internet	
+B+yqQ^.8<T	Basic	SnykAdjacent::Partners::chainguard	What project is clair security scanner part of?	Project Quay	
+ipQ/@fGuze	Basic	SnykAdjacent::Partners::chainguard	what are 4 differences between trivy and clair?	easier install (clair requires db/server), speed, broader compatibility (clair is focused on containers, trivy also does code), better error handling	
+jQPQJ6ZSWh	Basic	SnykAdjacent::Partners::chainguard	what is grype security scanner?	open source : A vulnerability scanner for container images and filesystems	
+"e[2#{85Oje"	Basic	SnykAdjacent::Partners::chainguard	what is snyk security scanner	Snyk is a platform that allows you to scan, prioritize, and fix security vulnerabilities in your code, open-source dependencies, container images, and infrastructure as code configurations.	
+M:Ay_^(6%.	Basic	SnykAdjacent::Partners::chainguard	what is VEX (security)?	Vulnerability-Exploitability eXchange,	
+r01WT|1?6f	Basic	SnykAdjacent::Partners::chainguard	what does VEX (Vulnerability-Exploitability eXchange,) do ?	provides a way for software suppliers to use the VEX format to relay the information that a<br>particular vulnerability is not exploitable in the final product.	
+"fjT|(iclO#"	Basic	SnykAdjacent::Partners::chainguard	what does&nbsp;OSV.dev provide?	provides an open source software vulnerability scan database and triage<br>infrastructure	
+uSMr,JjU?8	Basic	SnykAdjacent::Partners::chainguard	what does SLSA stand for?	<h3>Supply-chain Levels for Software Artifacts</h3>	
+m)yn~LIBD;	Basic	SnykAdjacent::Partners::chainguard	when was SLSA released?	2021	
+Kk2+35>d5>	Basic	SnykAdjacent::Partners::chainguard	who released SLSA?	Google	
+"k#scQwS(}r"	Basic	SnykAdjacent::Partners::chainguard	what does SLSA help do?	open specification to help users secure parts of their supply chain	
+t:sBX9Y@er	Basic	SnykAdjacent::Partners::chainguard	what is chainguard's stance towards SLSA?	At Chainguard, we are big advocates of SLSA	
+th%,)I=u?v	Basic	SnykAdjacent::Partners::chainguard	who are the founders of chainguard?	"<a href=""https://www.crunchbase.com/person/dan-lorenc"">Dan Lorenc</a>,<a href=""https://www.crunchbase.com/person/kim-vogt""> Kim Lewandowski</a>,<a href=""https://www.crunchbase.com/person/ville-aikas""> Ville Aikas</a>"	
+dU4)I:wbTL	Basic	SnykAdjacent::Partners::chainguard	which chainguard founder helped create and launch SLSA?	Kim Lewandowski helped create and launch SLSA	
+"G&#Buica-2"	Basic	SnykAdjacent::Partners::chainguard	what does CNCF stand for?	"<a href=""http://cncf.io"">Cloud Native Computing Foundation (CNCF</a>"	
+iAZ%!k->9f	Basic	SnykAdjacent::Partners::chainguard	"what is the ""provenance attestation""?"	One of the key elements of SLSA	
+u9g^Ln+$45	Basic	SnykAdjacent::Partners::chainguard	"if SBOM is the ""list of ingredients"" - what is the ""provenance attestation?"""	you can think of the provenance attestation as the recipe (how those ingredients combined to produce the image).	
+LA8jjp%Fy`	Basic	SnykAdjacent::Partners::chainguard	do chainguard images carry SLSA attestations?	All Chainguard Images carry SLSA attestations,	
+OR;dt7*-vc	Basic	SnykAdjacent::Partners::chainguard	how are chainguard images signed?	By Chainguard's release automation	
+bV8mw}%y:z	Basic	SnykAdjacent::Partners::chainguard	what versions of SLSA has chainguard tracked?	We have tracked SLSA from v0.1 through to v1.0.	
+tn{pg4J~O/	Basic	SnykAdjacent::Partners::chainguard	what frameworks (SLSA, etc) - contains reproducibility requirements?	Reproducibility has not yet found its way into the requirements of any compliance frameworks	
+Q,9MP$~7~k	Basic	SnykAdjacent::Partners::chainguard	what SLSA level considered reproducibility as a requirement?	it it was briefly one of the aspirational elements of SLSA level 4 (which was left out of v1.0)	
+AX~7Z?f{/n	Basic	SnykAdjacent::Partners::chainguard	does chainguard think reproducible builds are important?	At Chainguard, we see reproducible builds as a cheat code for supply chain security.	
+E08U)?Mh-^	Basic	SnykAdjacent::Partners::chainguard	what is chainguard's method for getting around the 1970 problem?	"""build date"" epoch"	
+"g/#^b]M1~3"	Basic	SnykAdjacent::Partners::chainguard	"why is a ""created_at"" timestamp in a containers config file problematic?"	"the configs hash is part of a ""merkle tree"" , any non-determinism results in the digest for the image changing even if everything else remains the same"	
+q[*Xe1s[XN	Basic	SnykAdjacent::Partners::chainguard	what is a merkle tree?	"a <b>hash tree</b> or <b>Merkle tree</b> is a <a href=""https://en.wikipedia.org/wiki/Tree_(data_structure)"">tree</a> in which every ""leaf"" (<a href=""https://en.wikipedia.org/wiki/Tree_(data_structure)#Terminology"">node</a>) is labelled with the <a href=""https://en.wikipedia.org/wiki/Cryptographic_hash_function"">cryptographic hash</a> of a data block"	
+IQ+gRg+%5M	Basic	SnykAdjacent::Partners::chainguard	what do hash trees (merkle trees) allow for?	"A hash tree allows efficient and secure verification of the contents of a large <a href=""https://en.wikipedia.org/wiki/Data_structure"">data structure</a>."	
+hcDz3K(Th3	Basic	SnykAdjacent::Partners::chainguard	are chainguard image builds reproducible?	"All Chainguard <a href=""https://www.chainguard.dev/unchained/reproducing-chainguards-reproducible-image-builds"">Image builds are reproducible</a>, which we verify before ever tagging a new image and distributing it to our users."	
+jIt3.F`1Y!	Basic	SnykAdjacent::Partners::chainguard	how has chainguard been involved with VEX?	Adolfo Veytia, Dan Luhring, and the Chainguard team have been working to advance the state of VEX	
+k;i<IM5IER	Basic	SnykAdjacent::Partners::chainguard	what are 2 parts of VEX chainguard has helped release?	the OpenVEX spec and the vexctl CLI	
+n@rQRe&,SW	Basic	SnykAdjacent::Partners::chainguard	what does chainguard see the openVEX specification addressing?	"a way of eliminating 
+false positives from scanners with fuzzy matching logic on container 
+images, including, of course, Chainguard Images!"	
+EIGhzgI&|;	Basic	SnykAdjacent::Partners::chainguard	what are some non federal compliance frameworks chainguard images applies to?	SOC2, ISO27001, PCI DSS,	
+sxy_$w:ogK	Basic	SnykAdjacent::Partners::chainguard	what are the low hanging fruit of chainguard container images to replace in an organization?	The easiest Chainguard Images for users to adopt are our Application Images (vs. our Base Images).	
+x-_DLvfp3	Basic	SnykAdjacent::Partners::chainguard	how can users immediately start using application images?	users can typically change which images are used by a Helm chart (or other manifests) to pull Chainguard Images instead.	
+b6`{Yn~`o)	Basic	SnykAdjacent::Partners::chainguard	what is wolfi linux distro?	the first community Linux (un)distribution built with default security measures for the software supply chain	
+oN}g{.S(kR	Basic	SnykAdjacent::Partners::chainguard	what is chainguard's custom apk package build tool?	"Chainguard's custom apk package build tool <a href=""https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL2dpdGh1Yi5jb20vY2hhaW5ndWFyZC1kZXYvbWVsYW5nZT91dG1fc291cmNlPW9wZW5zb3VyY2V3YXRjaC5iZWVoaWl2LmNvbSZ1dG1fbWVkaXVtPXJlZmVycmFsJnV0bV9jYW1wYWlnbj13aGF0LXMtd2hhdC13aXRoLXdvbGZpLXRoZS1saW51eC11bmRpc3RyaWJ1dGlvbi1hbmQtYXJtIiwicG9zdF9pZCI6Ijg2NmMzZTRjLTFhNGEtNDQ3Yy1iZjg2LTg5NzU4ODEwZmU4MCIsInB1YmxpY2F0aW9uX2lkIjoiNDc5YzZmMDYtMTc1ZS00ZTkzLTlkYTgtMTNkYjkzYjU1OTIzIiwidmlzaXRfdG9rZW4iOiJhZDE4MzBjYi00M2JlLTRhNTgtOWY4Ny1hMDhhZTU2YzgxMzgiLCJpYXQiOjE3MDQ5MDU0MzcsImlzcyI6Im9yY2hpZCJ9.tFfTKFxaeKpp0t0-3xUMf-7T5M6LMFyozD85yu-6ZCY"">Melange</a>."	
+kq*{H524eJ	Basic	SnykAdjacent::Partners::chainguard	what is wolfi named after?	Wolfi [named for the smallest and most flexible octopus]	
+mrOKB5[S1u	Basic	SnykAdjacent::Partners::chainguard	how is SLSA pronounced?	"""salsa"""	
+"ci#jf0UY&4"	Basic	SnykAdjacent::Partners::chainguard	what is a wolfi -dev image?	"“dev variants” include all the goodies that users would generally expect
+ from their traditional base images, which are also typically the things
+ that are absent from distroless images, such as a package manager and 
+shell."	
+EhR=NdYC|k	Basic	SnykAdjacent::Partners::chainguard	what does FIPS stand for?	Federal Information Processing Standards	
+nM*A37]>^G	Basic	SnykAdjacent::Partners::chainguard	What is state ramps mission ?	our mission is to promote cybersecurity best practices through education and policy development to improve the cyber posture of public institutions and the citizens they serve.	
+"nT8M=NO!#F"	Basic	SnykAdjacent::Partners::chainguard	What does nist 800 53 provide?	provides a catalog of security and privacy controls for all U.S. federal information systems except those related to national security	

@@ -1,0 +1,9 @@
+#separator:tab
+#html:true
+#guid column:1
+#notetype column:2
+#deck column:3
+#tags column:6
+mCdu>+=~h6	Basic	SnykAdjacent::Languages::PNPM	PNPM:&nbsp;<b>a drop-in replacement for npm</b>&nbsp;and is much faster and more efficient than its predecessor.	PNPM	
+Nl[S5r1xFZ	Basic	SnykAdjacent::Languages::PNPM	PNPM: acronym	Performant NPM (Node Package Manager)	
+bZ+(zxl5mM	Basic	SnykAdjacent::Languages::PNPM	PNPM: when was it released?	2016	
