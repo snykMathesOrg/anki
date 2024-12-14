@@ -1,0 +1,25 @@
+#separator:tab
+#html:true
+#guid column:1
+#notetype column:2
+#deck column:3
+#tags column:7
+"i?8r.MUn#x"	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykAdjacent::GeneralSecurity::FedRAMP	who maintains the NVD?	NIST	597772b8-5fee-4561-bf57-44f4f339ab70	AnkiHub_Subdeck::SnykCollab::Acronyms
+JDE}>z/2nW	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykAdjacent::GeneralSecurity::FedRAMP	What year was EPSS created?	2019	211907a9-4e00-4810-8be7-dcbf9f02b2f2	AnkiHub_Subdeck::SnykCollab::Acronyms
+dB&%P9*EOX	Basic	SnykAdjacent::GeneralSecurity::FedRAMP	"FedRAMP: What guide replaces&nbsp;FedRAMP JAB P-ATO Vulnerability
+Scan Requirements Guide?"	CSP_Vulnerability_Scanning_Requirements		
+M0OUimN9I,	Basic	SnykAdjacent::GeneralSecurity::FedRAMP	FedRAMP: when was&nbsp;CSP_Vulnerability_Scanning_Requirements published?	2018		
+v2Rm_|qTW<	Basic	SnykAdjacent::GeneralSecurity::FedRAMP	FedRAMP: when was&nbsp;CSP_Vulnerability_Scanning_Requirements v2 published?	2022		
+tl@3&Y(VDC	Basic	SnykAdjacent::GeneralSecurity::FedRAMP	FedRAMP: what did CSP_Vulnerability_Scanning_Requirements v2 add?	Container guidance		
+G7gcSc`vq-	Basic	SnykAdjacent::GeneralSecurity::FedRAMP	FedRAMP: what 3 areas CSP_Vulnerability_Scanning_Requirements did v3 refine?	"Consolidated all required scanning
+requirements,&nbsp;container scanning,
+encryption and reporting,&nbsp;supplemental scanning
+remediation reporting."		
+t-,81zA4y5	Basic	SnykAdjacent::GeneralSecurity::FedRAMP	FedRAMP: what year CSP_Vulnerability_Scanning_Requirements did was v3 released?	2024		
+yNCSY8,Z~A	Basic	SnykAdjacent::GeneralSecurity::FedRAMP	FedRAMP Acronym:&nbsp;AO	authorizing official		
+f*ZRc-x96y	Basic	SnykAdjacent::GeneralSecurity::FedRAMP	FedRAMP Acronym:&nbsp;3PAOs	third party assessment organizations		
+O{x]=GGz>d	Basic	SnykAdjacent::GeneralSecurity::FedRAMP	FedRAMP Acronym: ConMon	Continuous Monitoring		
+H:bH;-)W1S	Basic	SnykAdjacent::GeneralSecurity::FedRAMP	FedRAMP: CSPs must provide ___ insight into the security posture of their system	monthly		
+"u!H;1?/#3j"	Basic	SnykAdjacent::GeneralSecurity::FedRAMP	FedRAMP Acronym: PMO	Program Management Office		
+G^mj[Y?)`;	Basic	SnykAdjacent::GeneralSecurity::FedRAMP	FedRAMP: Vulnerability scanning requirements are part of ____ (doc)?	FedRAMP Continuous Monitoring Strategy Guide		
+bMGzG>t>t`	Basic	SnykAdjacent::GeneralSecurity::FedRAMP	FedRAMP: where are the&nbsp;FedRAMP Low, Moderate, or High security control baselines specified?	control RA-5		

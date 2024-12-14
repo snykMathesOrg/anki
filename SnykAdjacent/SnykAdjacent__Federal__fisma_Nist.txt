@@ -1,0 +1,56 @@
+#separator:tab
+#html:true
+#guid column:1
+#notetype column:2
+#deck column:3
+#tags column:6
+mLy^e&hdGx	Basic	SnykAdjacent::Federal::fisma/Nist	When was fisma founded ?	2002	
+zwjG}igOgC	Basic	SnykAdjacent::Federal::fisma/Nist	Who is mandated to comply by fisma ?	Each federal agency	
+J4w$2u_q[O	Basic	SnykAdjacent::Federal::fisma/Nist	What 3 things does fisma require each agency to do for their program?	&nbsp; create, document, and implement &nbsp;	
+p^ZXgo{30w	Basic	SnykAdjacent::Federal::fisma/Nist	FISMA: aim for each agency is to ensure security for the __________ that support___________	data and systems , operations and assets.&nbsp;	
+Ey(i)~L}qo	Basic	SnykAdjacent::Federal::fisma/Nist	what is one of the bigger obstacles for FEDRamp authorization?	a successful implementation of FIPS 140-2 validated technologies	
+u]MtO}Eh/K	Basic	SnykAdjacent::Federal::fisma/Nist	FISMA: what are FIPS 140-2 validated technologies?	cryptographic modules validated by NVLAP	
+P`]8ETa&[W	Basic	SnykAdjacent::Federal::fisma/Nist	FISMA: using a defined set of criteria and standards - what does the&nbsp;Cryptographic Module Validation Program validate?	cryptographic modules&nbsp;	
+AD60zwh$Cr	Basic	SnykAdjacent::Federal::fisma/Nist	how are&nbsp;cryptographic modules validated in the CMVP?	independent, accredited testing laboratories to have their modules tested	
+l})JjzXq/Y	Basic	SnykAdjacent::Federal::fisma/Nist	What do NVLAP accredited laboratories perform?	cryptographic module compliance/conformance testing	
+vtR-GpX$eo	Basic	SnykAdjacent::Federal::fisma/Nist	Once a product is validated by FIPS 140-2, which countries accept the results?	US and canada	
+g.MmXXIa4/	Basic	SnykAdjacent::Federal::fisma/Nist	What are major changes in FIPS 140-3 limited to?	the introduction of non-invasive physical requirements.	
+r}xQbW?U7:	Basic	SnykAdjacent::Federal::fisma/Nist	What are the 4 security levels in FIPS 140-2 and 140-3	Security Level 1,2,3,4 ;)	
+oNTl>T2^a^	Basic	SnykAdjacent::Federal::fisma/Nist	What does FIPS security level 1 cover?	Applies to the cryptographic module, or software component, of a crypto system	
+m~z5`uW8&=	Basic	SnykAdjacent::Federal::fisma/Nist	What is an example component that falls under FIPS140-2/3 security level 1?	OTP, validated when it incorporates FIPS-validated crypto libraries	
+o8afteI^T.	Basic	SnykAdjacent::Federal::fisma/Nist	What does FIPS 140-2/3 Security level 2 apply to?	Applies to the physical casing of a cryptographic module (eg a token), requires that it be tamper evident.	
+J6yq)X34&F	Basic	SnykAdjacent::Federal::fisma/Nist	What does&nbsp;&nbsp;FIPS 140-2/3 Security level 3 apply to?	Stipulates the zeroing (self-destruction) of encryption keys in the event of tampering or physical access to a token	
+h}A.&cB37|	Basic	SnykAdjacent::Federal::fisma/Nist	What does&nbsp;&nbsp;FIPS 140-2/3 Security level 4 apply to?	Requires complete protection of the encryption keys from extreme physical conditions (eg space, lab settings, etc), so that manipulation does not reveal the keys	
+31oui9JGH	Basic	SnykAdjacent::Federal::fisma/Nist	when was the last time fips 140-2 can be submitted for fedramp?	sep 2021	
+uV2~[kx~B,	Basic	SnykAdjacent::Federal::fisma/Nist	when is fips 140-2 valid through?	2026	
+p..[gpR/w0	Basic	SnykAdjacent::Federal::fisma/Nist	"What does ""FIPS Compliant"" mean?"	<strong> </strong>Industry term for technology products in which vendors claim they meet the FIPS 140-2/140-3 requirements (encryption libraries).&nbsp;&nbsp;These products have not yet gone through the full, independent NVLAP review	
+"Hbp#{Q:^pS"	Basic	SnykAdjacent::Federal::fisma/Nist	What are FIPS Validated products?	The software (and/or hardware) must be independently validated by one of 13 NIST NVLAP laboratories.	
+"q<=#M+9BpJ"	Basic	SnykAdjacent::Federal::fisma/Nist	How many NIST NVLAP labs are there?	13	
+r{Qm-rFH$p	Basic	SnykAdjacent::Federal::fisma/Nist	How can you find a list of FIPS validated products?	NIST maintains a current list at csrc.nist.gov	
+G~U1_z[wpg	Basic	SnykAdjacent::Federal::fisma/Nist	How does FIPS 140/x affect Data In Transit - Web App?	all web application sessions must be encrypted via FIPS 140-2 validated crypto modules.	
+N&I})]!g1?	Basic	SnykAdjacent::Federal::fisma/Nist	How does FIPS 140/x affect Data In Transit -&nbsp;<strong>CSP administrative (Remote access)&nbsp;</strong>	"ll remote access sessions to the application or underlying 
+infrastructure (AWS, Azure, GCP, IBM, Others) must be encrypted via FIPS
+ 140-2 validated crypto modules."	
+N$b@lKm$eC	Basic	SnykAdjacent::Federal::fisma/Nist	How does FIPS 140/x affect Data In Transit - Site to Site Replication?	all site-to-site replication for disaster recovery must be encrypted via FIPS 140-2 validated crypto modules.	
+ij(K0j_9oP	Basic	SnykAdjacent::Federal::fisma/Nist	How does FIPS 140/x affect Data At Rest?	All data at rest must be encrypted via FIPS 140-2 validated crypto modules.	
+"DBzg=e?/5#"	Basic	SnykAdjacent::Federal::fisma/Nist	How does FIPS 140/x affect&nbsp;<strong>Authentication</strong>	must meet the Digital Identity requirements as stipulated in NIST SP 800-63.	
+kQ/iaHp^&f	Basic	SnykAdjacent::Federal::fisma/Nist	What organization came up with Common Configuration Scoring System?	NIST	
+"pushP#A<+>"	Basic	SnykAdjacent::Federal::fisma/Nist	when was CCSS created?	2010	
+rfY+}W%=<?	Basic	SnykAdjacent::Federal::fisma/Nist	CCSS is derived from what?	CVSS	
+j&s%,zgn$3	Basic	SnykAdjacent::Federal::fisma/Nist	what org created CVSS?	NIST	
+kc4M`f2uCK	Basic	SnykAdjacent::Federal::fisma/Nist	when was cvss v1 created?	feb 2005	
+fDlJpdTQl3	Basic	SnykAdjacent::Federal::fisma/Nist	CVSS attempts to assign ____ to vulnerabilities	severity scores	
+pX$%S/J-K~	Basic	SnykAdjacent::Federal::fisma/Nist	when was CVSS v4 released?	Nov. 2023	
+c[4vu22P8i	Basic	SnykAdjacent::Federal::fisma/Nist	when was CVSS v2 released?	2007	
+"pkOa|R.H(#"	Basic	SnykAdjacent::Federal::fisma/Nist	when was CVSS v3 released?	2015	
+"rU@L#x^c?J"	Basic	SnykAdjacent::Federal::fisma/Nist	The CVSS assessment measures three types of metrics:	Base, Temporal, Environmental	
+gJ|d(=MJ>e	Basic	SnykAdjacent::Federal::fisma/Nist	CVSS Base metrics looks for qualities ____ to a vulnerability	intrinsic	
+HV*Hafv44E	Basic	SnykAdjacent::Federal::fisma/Nist	CVSS Temporal Metrics looks for characteristics that _____ over the lifetime of vulnerability	evolve	
+AEq;1;Sw-&	Basic	SnykAdjacent::Federal::fisma/Nist	CVSS Environmental Metrics for vulnerabilities that depend on a particular ____ or ______	implementation or environment	
+P/2YCU(H2s	Basic	SnykAdjacent::Federal::fisma/Nist	What 3 well known organizations utilize CVSS?	NVD, OSVDB, CERT	
+k6rt)h0k7y	Basic	SnykAdjacent::Federal::fisma/Nist	Who runs CERT?	SEI	
+lJSa;s_q`5	Basic	SnykAdjacent::Federal::fisma/Nist	What incident led to CERT/CC being created at DARPA's direction?	Morris Worm	
+iKqJ[]:l?(	Basic	SnykAdjacent::Federal::fisma/Nist	What year was CERT/CC created?	1988	
+mH@vV[o&t;	Basic	SnykAdjacent::Federal::fisma/Nist	Where is the CERT program physically?	Carnegie Mellon	
+LAf^KmyRMw	Basic	SnykAdjacent::Federal::fisma/Nist	When was SEI established?	1984	
+iEeO-%kbU*	Basic	SnykAdjacent::Federal::fisma/Nist	Where is SEI located physically?	Pittsburgh, PA	

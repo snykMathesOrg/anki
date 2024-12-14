@@ -1,0 +1,22 @@
+#separator:tab
+#html:true
+#guid column:1
+#notetype column:2
+#deck column:3
+#tags column:6
+M_J;:y<SF[	Basic	SnykAdjacent::Languages::Maven	Maven Objective: Making the ____ easy	build process	
+Gk=k@o!~j1	Basic	SnykAdjacent::Languages::Maven	Maven Objective: Providing a uniform&nbsp;_____	build system	
+OCXScuiu7J	Basic	SnykAdjacent::Languages::Maven	Maven Objective: Providing quality _____	project information	
+"Ck#v^I@.XG"	Basic	SnykAdjacent::Languages::Maven	Maven Objective: Encouraging better _____	development practices	
+"MYCmmS#r%9"	Basic	SnykAdjacent::Languages::Maven	Maven acronym: POM	Project Object Model	
+u:*oY3{Ixu	Basic	SnykAdjacent::Languages::Maven	Maven builds a project with what 2 things:	POM and a set of plugins	
+IknovvA&4j	Basic	SnykAdjacent::Languages::Maven	Maven: What is the literal meaning and cultural origin of the word Maven?	"a&nbsp;<a href=""https://en.wikipedia.org/wiki/Maven"">Yiddish word</a>&nbsp;meaning&nbsp;<em>accumulator of knowledge</em>"	
+JrGz6f%Gus	Basic	SnykAdjacent::Languages::Maven	Maven: What are the 3 Maven build *phases*:	default, clean, site	
+ya)687%e,W	Basic	SnykAdjacent::Languages::Maven	"Maven: what are the 7 main ""build phases"" of default ""build lifecycle"" ? (in order!)"	validate, compile, test, package, verify, install, deploy	
+E?k]dX}5qs	Basic	SnykAdjacent::Languages::Maven	"Maven: what does the command ‘<span style=""white-space: pre-wrap;"">mvn clean deploy’ execute?</span>"	clean lifecyle followed by deploy build phase with all previous steps up to deploy	
+M9z,RwF1D7	Basic	SnykAdjacent::Languages::Maven	"Maven: what does the following CLI execute:&nbsp;<span style=""white-space: pre-wrap;"">‘mvn clean dependency:copy-dependencies package’ ?</span>"	first clean build phase, second copy-dependencies plugin goal, followed by package phase	
+d)8%m{]*76	Basic	SnykAdjacent::Languages::Maven	Maven: what build phases are not usually called from command line?	hyphenated-words build phases (pre-, post-, process-)	
+Jegb|g^$d*	Basic	SnykAdjacent::Languages::Maven	Maven: when are hyphenated-words build phases (pre-, post-, process-) usually called?	build, clean phases&nbsp;	
+"c9>#jhyf7?"	Basic	SnykAdjacent::Languages::Maven	Maven acronym: JAR	Jave ARchive	
+"BDgFLX#2$)"	Basic	SnykAdjacent::Languages::Maven	Maven Objective: Providing a uniform ______	build system	
+d<Z{5s@6uK	Basic	SnykAdjacent::Languages::Maven	Maven Objective: Providing quality ______	project information	

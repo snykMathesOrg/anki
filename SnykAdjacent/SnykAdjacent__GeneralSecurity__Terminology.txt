@@ -1,0 +1,34 @@
+#separator:tab
+#html:true
+#guid column:1
+#notetype column:2
+#deck column:3
+#tags column:6
+dDbedJZgi3	Basic	SnykAdjacent::GeneralSecurity::Terminology	Acronym: Security - IOC	Indicator of Compromise	
+P(Uht!$ZhW	Basic	SnykAdjacent::GeneralSecurity::Terminology	Security: 4 examples of an IOC	a file, IP address, domain name, registry key	
+OK^u!xIDeZ	Basic	SnykAdjacent::GeneralSecurity::Terminology	Acronym: Security - IOA	Indicators of Attack	
+"Fbj+D#;.&j"	Basic	SnykAdjacent::GeneralSecurity::Terminology	Security: When was MITRE created?	1958	
+OEFS>%*o6G	Basic	SnykAdjacent::GeneralSecurity::Terminology	Security: What was MITRE civilian projects spun off as?	Mitretek	
+"bh3K5u;#zH"	Basic	SnykAdjacent::GeneralSecurity::Terminology	Security: what year was Mitretek spun off from Mitre?	1996	
+Ff{ZG}cr1u	Basic	SnykAdjacent::GeneralSecurity::Terminology	Security: What year was Mitretek renamed to Noblis?	2007	
+jezt$?z7Pn	Basic	SnykAdjacent::GeneralSecurity::Terminology	Security: What was Mitretek renamed to ?	Noblis	
+Dd/Mz8n44l	Basic	SnykAdjacent::GeneralSecurity::Terminology	Security: What does MITRE mean (maybe?)	MIT Research and Engineering	
+JWkAqLbJw1	Basic	SnykAdjacent::GeneralSecurity::Terminology	Security: When was MITRE ATT&amp;CK developed?	2013	
+MC0T>h{gUI	Basic	SnykAdjacent::GeneralSecurity::Terminology	Security: MITRE ATT&amp;CK what represent “how” an adversary achieves a tactical goal by performing an action?	Techniques	
+QskElY*_r`	Basic	SnykAdjacent::GeneralSecurity::Terminology	Security: MITRE ATT&amp;CK what is a more specific description of the adversarial behavior used to achieve a goal. They describe behavior at a lower level than a technique	sub-technique	
+Ek/*4bA.I1	Basic	SnykAdjacent::GeneralSecurity::Terminology	Security: MITRE ATT&amp;CK what is a specific implementation the adversary uses for techniques or sub-techniques?	<strong>procedures</strong>	
+dh]?iY^BUT	Basic	SnykAdjacent::GeneralSecurity::Terminology	Security:&nbsp;<strong>How often is MITRE ATT&amp;CK updated?</strong>	bi-annually	
+mIZw}yY18x	Basic	SnykAdjacent::GeneralSecurity::Terminology	Security:&nbsp;<strong>Are there APIs I can use to access the MITRE ATT&amp;CK content?</strong>	Yes!	
+zb0bdUI:_s	Basic	SnykAdjacent::GeneralSecurity::Terminology	Security acronym : STIG	<b>Security Technical Implementation Guides</b>	
+ONrN$cm)R$	Basic	SnykAdjacent::GeneralSecurity::Terminology	Security acronym: DISA	Defense Information Systems Agency	
+GraGKD[l+@	Basic	SnykAdjacent::GeneralSecurity::Terminology	Security acronym: SCAP	<b>security content automation protocol</b>	
+C:c1TucFN-	Basic	SnykAdjacent::GeneralSecurity::Terminology	Security acronym : CIS&nbsp;	<b>Center for Internet Security</b>	
+nGHN8^BvkQ	Basic	SnykAdjacent::GeneralSecurity::Terminology	"Security Acronym:&nbsp;<span style=""font-weight: 700;"">AES</span>"	"<span style=""font-weight: 700;"">Advanced Encryption Standard</span>"	
+"ib-Z`#f8D*"	Basic	SnykAdjacent::GeneralSecurity::Terminology	"Security Acronym:&nbsp;<span style=""font-weight: 700;"">AFC4A</span>"	"<span style=""font-weight: 700;"">Air Force C4 Agency</span>"	
+v-8];abNp;	Basic	SnykAdjacent::GeneralSecurity::Terminology	"Security Acronym:&nbsp;<span style=""font-weight: 700;"">AFIWC</span>"	"<span style=""font-weight: 700;"">Air Force Information Warfare Center</span>"	
+Pbsuz_iMiJ	Basic	SnykAdjacent::GeneralSecurity::Terminology	"Security Acronym:&nbsp;<span style=""font-weight: 700;"">AFOSI</span>"	"<span style=""font-weight: 700;"">Air Force Office of Special Investigation</span>"	
+pe,-iq2E%~	Basic	SnykAdjacent::GeneralSecurity::Terminology	"Security Acronym:&nbsp;<span style=""font-weight: 700;"">ANSI</span>"	"<span style=""font-weight: 700;"">American National Standards Institute</span>"	
+li:i?n|!g}	Basic	SnykAdjacent::GeneralSecurity::Terminology	"Security Acronym:&nbsp;<span style=""font-weight: 700;"">AMIDS</span>"	"<span style=""font-weight: 700;"">Audit Monitoring and Intrusion Detection System</span>"	
+tkw96Xj!+|	Basic	SnykAdjacent::GeneralSecurity::Terminology	"<div>Security Acronym:&nbsp;<span style=""font-weight: 700;"">ATO</span></div>"	"<span style=""font-weight: 700;"">Authorization to Operate</span>"	
+QQS3EJEGoa	Basic	SnykAdjacent::GeneralSecurity::Terminology	"<div>Security Acronym:&nbsp;<span style=""font-weight: 700;"">ATC</span></div>"	"<span style=""font-weight: 700;"">Authorization to Connect</span>"	
+Pj1p/=hNht	Basic	SnykAdjacent::GeneralSecurity::Terminology	"Acronym:&nbsp;<span style=""font-weight: 700;"">BIOS</span>"	"<span style=""font-weight: 700;"">Basic Input and Output System</span>"	

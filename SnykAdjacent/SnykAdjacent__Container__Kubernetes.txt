@@ -1,0 +1,65 @@
+#separator:tab
+#html:true
+#guid column:1
+#notetype column:2
+#deck column:3
+#tags column:6
+s{(_J|16(y	Basic	SnykAdjacent::Container::Kubernetes	Kubernetes: is Kubernetes portable?	yes	
+vqD2SqZtXH	Basic	SnykAdjacent::Container::Kubernetes	Kubernetes: What type of workloads does Kubernetes manage?	containerized workloads	
+ssz80,Yi]m	Basic	SnykAdjacent::Container::Kubernetes	Kubernetes:&nbsp;what type of configuration does kubernetes facilitate by design?	declarative configuration	
+gJD9]aV:;L	Basic	SnykAdjacent::Container::Kubernetes	Kubernetes Workloads - what is a Node?	a virtual or physical machine, depending on the cluster	
+e?L^Z;q;QE	Basic	SnykAdjacent::Container::Kubernetes	Kubernetes: What is a node able to do?	able to run Pods	
+Ia8/=9B5J5	Basic	SnykAdjacent::Container::Kubernetes	Kubernetes: what kind of cluster do all your containerized applications run on top of?	a kubernetes workload cluster	
+Or`b=w+Z/Y	Basic	SnykAdjacent::Container::Kubernetes	Kubernetes: what is the basic unit of work ?	a kubernetes pod.&nbsp;	
+y~)N*7E|X@	Basic	SnykAdjacent::Container::Kubernetes	kubernetes:&nbsp;Can pods be created manually on their own?	Almost never, pod controllers normally do this	
+PKYUc7TJ29	Basic	SnykAdjacent::Container::Kubernetes	Kubernetes:&nbsp;deploying with what component is most common way to deploy your app	pod controller deployment	
+c8WaPVpq~+	Basic	SnykAdjacent::Container::Kubernetes	Kubernetes: For each Deployment spec, what asset does pod controller deployment create?	Creates a ReplicaSet&nbsp;	
+t,LL[qd(t@	Basic	SnykAdjacent::Container::Kubernetes	Kubernetes:&nbsp;a pod controller replica creates a&nbsp;____ set of pods	stable	
+lKTngk-EpG	Basic	SnykAdjacent::Container::Kubernetes	kubernetes:&nbsp;When would you create a pod controller replica set manually?	You will almost never create this directly.&nbsp;	
+iVS4d1R|kp	Basic	SnykAdjacent::Container::Kubernetes	Kubernetes: what ensures that all (or some) Nodes run a copy of a Pod?	A DaemonSet	
+OtB+35L29w	Basic	SnykAdjacent::Container::Kubernetes	kubernetes:&nbsp;What does the daemonset do when nodes are added to a cluster?	the daemonset adds pods to them	
+*/JF*ID;O	Basic	SnykAdjacent::Container::Kubernetes	kubernetes:&nbsp;What does daemonset do when nodes are removed from a cluster?	Daemonset garbage collects those pods	
+zym$M~yODE	Basic	SnykAdjacent::Container::Kubernetes	kubernetes: what will the daemonset do to pods created by it when it is deleted?	clean up those pods	
+v.KSuS]FMD	Basic	SnykAdjacent::Container::Kubernetes	kubernetes:&nbsp;what is a workload API object used to manage stateful applications ?	a pod controller stateful set	
+iFtI-tyn}S	Basic	SnykAdjacent::Container::Kubernetes	kubernetes:&nbsp;what type of storage does stateful set have?	persistent&nbsp;	
+D[>ws|jkvO	Basic	SnykAdjacent::Container::Kubernetes	kubernetes:&nbsp;StatefulSet pod names are persisent or temporary?	persistent	
+B/3_Q(GxxJ	Basic	SnykAdjacent::Container::Kubernetes	kubernetes:&nbsp;when a statefulset pod is rescheduled, what happens to it's pod name?	nothing, statefulset pod names are persistent	
+Q~mDey/Ol;	Basic	SnykAdjacent::Container::Kubernetes	Kubernetes: do statefulset pod names have dns names?	yes	
+IhElxW6u7	Basic	SnykAdjacent::Container::Kubernetes	kubernetes:&nbsp;what happens to storage when stateful set replacement pods are activated?	stays associated with replacement pods	
+qxp<j]qi51	Basic	SnykAdjacent::Container::Kubernetes	kubernetes:&nbsp;what happens to storage volumes of stateful sets when pods are deleted?	the volumes persist&nbsp;	
+PasB,Gk}K!	Basic	SnykAdjacent::Container::Kubernetes	Kubernetes: are stateful set pods deployed serially or in parallel?	serially, and in order	
+cqH$r~EV;[	Basic	SnykAdjacent::Container::Kubernetes	kubernetes: what automatically scales the number of pods horizontally?	the HorizontalPodAutoscaler	
+AN$1O}?_gT	Basic	SnykAdjacent::Container::Kubernetes	kubernetes:&nbsp;What 4 types of sets does the horizontalPodAutoscaler work with?	replication controller, deployment, replica set or stateful set	
+KE5N<5G72Y	Basic	SnykAdjacent::Container::Kubernetes	kubernetes: what uses standard metrics like CPU utilization or custom metrics like request latency to make determinations on scaling horizontally?	the horizontalPodAutoscaler	
+ceCIv}ES|Y	Basic	SnykAdjacent::Container::Kubernetes	kubernetes: what limits the number of Pods that are disrupted during upgrades and other planned events?	the PodDisruptionBudget	
+O/T@pJ{Nhd	Basic	SnykAdjacent::Container::Kubernetes	kubernetes: what allows for higher availability while permitting the cluster administrator to manage the clusters nodes.	the PodDisruptionBudget	
+FbesJ8q}fF	Basic	SnykAdjacent::Container::Kubernetes	kubernetes: what creates one or more Pods and expects them to successfully terminate?	a pod controller job	
+I*-aobXBY;	Basic	SnykAdjacent::Container::Kubernetes	kubernetes:&nbsp; what create Jobs on a schedule?	a pod controller cron job	
+P57pZc*&VU	Basic	SnykAdjacent::Container::Kubernetes	kubernetes: config - what API object used to store non-confidential data in key-value pairs?	config maps	
+lG1Vy|C4TM	Basic	SnykAdjacent::Container::Kubernetes	kubernetes: config - what stores and manages sensitive information?	secrets	
+dCE}Tl9~($	Basic	SnykAdjacent::Container::Kubernetes	kubernetes: networking - what is the name of an API object that manages external access to the services in a cluster?	ingress	
+K01`x~<;x	Basic	SnykAdjacent::Container::Kubernetes	kubernetes:&nbsp;what 3 services are typical to kubernetes network ingress?	HTTP, (possibly load balancing), <br>SSL termination<br>name-based virtual hosting	
+MJx<+Jy^,2	Basic	SnykAdjacent::Container::Kubernetes	kubernetes: what is an abstract way to expose an application running on a set of Pods as a network service?	a kubernetes networking service	
+h:`x~{KY-!	Basic	SnykAdjacent::Container::Kubernetes	kubernetes:&nbsp;what is a specification policy of how groups of pods are allowed to communicate with each other and other network endpoints.	kubernetes network policy	
+xyVvb:puOn	Basic	SnykAdjacent::Container::Kubernetes	kubernetes: security - rbac - what provides an identity for processes that run in a Pod?&nbsp;	a service account	
+pv,bsyvDZh	Basic	SnykAdjacent::Container::Kubernetes	kubernetes: security - what is a a set of permissions within a particular namespace?	A role	
+kWz>lC>VL9	Basic	SnykAdjacent::Container::Kubernetes	kubernetes:&nbsp;what must you specify when you create a role?	the namespace it belongs in	
+u&rDL]&=g$	Basic	SnykAdjacent::Container::Kubernetes	kubernetes: what is exactly the same as a Role except it is a non-namespaced resource?	kubernetes security ClusterRole	
+z(UP%T<t0K	Basic	SnykAdjacent::Container::Kubernetes	kubernetes: why is there a distinction between role and cluster role in kubernetes?	"because a 
+Kubernetes object always has to be either namespaced or not namespaced; 
+it can't be both."	
+C)S$&Z2:-u	Basic	SnykAdjacent::Container::Kubernetes	kubernetes:&nbsp;what grants the permissions defined in a Role to some group of Users or ServiceAccounts?	security rolebinding	
+DQ>fXcT49	Basic	SnykAdjacent::Container::Kubernetes	kubernetes: what are 3 types of rolebinding subjects?	Users, Groups, or ServiceAccounts	
+p7^mKi+r&n	Basic	SnykAdjacent::Container::Kubernetes	kubernetes: how many namespaces can a rolebinding associate with?	1, grants permissions within a specific namespace.&nbsp;	
+IIgxu%Whxi	Basic	SnykAdjacent::Container::Kubernetes	kubernetes: what scope is ClusterRoleBinding?	cluster-wide.	
+I_u<;Pq5$m	Basic	SnykAdjacent::Container::Kubernetes	Kubernetes: What are a nodes services managed by?	The control plane&nbsp;	
+"j}glg?-__#"	Basic	SnykAdjacent::Container::Kubernetes	Kubernetes: What 3 components run on a Kubernetes Node?	kubelet, container runtime, kube-proxy	
+b}j>PA+!iI	Basic	SnykAdjacent::Container::Kubernetes	kubernetes: what is an agent that runs on each node in the cluster. makes sure that containers are running in a pod.	kubelet	
+mOqRC(!%*^	Basic	SnykAdjacent::Container::Kubernetes	Kubernetes: what runtime software is responsible for running the containers?	container runtime	
+xV@y<9?<`X	Basic	SnykAdjacent::Container::Kubernetes	Kubernetes:&nbsp;what's a network proxy that runs on each node in the cluster ?	kube-proxy	
+q)p`W^8)}e	Basic	SnykAdjacent::Container::Kubernetes	Kubernetes:&nbsp;what are the two ways a kubernetes node is added to the api server?	1. kubelet or node self-registers to the control plane<br>2. manually added	
+CrM?rS_XSp	Basic	SnykAdjacent::Container::Kubernetes	Kubernetes:&nbsp;what must a Kubernetes node object name be?	a valid DNS subdomain name	
+sk12R8jGus	Basic	SnykAdjacent::Container::Kubernetes	Kubernetes:&nbsp;does a kubernetes node name need to be unique?	yes	
+zWwNq]3$^g	Basic	SnykAdjacent::Container::Kubernetes	<div>Kubernetes: What are 2 examples of secrets?</div>	<div>&nbsp;OAuth tokens, and ssh keys</div>	
+tmu)+0}[f/	Basic	SnykAdjacent::Container::Kubernetes	<div>Kubernetes: What does control plane manage?</div>	<div>nodes</div>	
+OW:2*06Q;&	Basic	SnykAdjacent::Container::Kubernetes	Kubernetes: What were the two original Kubernetes Project name?	Borg then Project 7	

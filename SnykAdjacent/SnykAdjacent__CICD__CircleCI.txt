@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#guid column:1
+#notetype column:2
+#deck column:3
+#tags column:6
+w9C=w|}1MH	Basic	SnykAdjacent::CICD::CircleCI	CircleCI: Represents the entirety of your configuration.	Pipeline	
+DDS5@;G$ow	Basic	SnykAdjacent::CICD::CircleCI	CircleCI: Responsible for orchestrating multiple&nbsp;<em>jobs</em>.	Workflows	
+lQAk|Ofl>*	Basic	SnykAdjacent::CICD::CircleCI	CircleCI: Responsible for running a series of&nbsp;<em>steps</em>&nbsp;that perform commands.	Jobs	
+bF9EwkHY_p	Basic	SnykAdjacent::CICD::CircleCI	CircleCI: Run commands (such as installing dependencies or running tests) and shell scripts to do the work required for your project.	Steps	
+M1ajJ|f4uX	Basic	SnykAdjacent::CICD::CircleCI	CircleCI: reusable snippets of code that help automate repeated processes, accelerate project setup, and make it easy to integrate with third-party tools.	Orbs	

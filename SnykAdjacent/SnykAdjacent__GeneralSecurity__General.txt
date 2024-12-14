@@ -1,0 +1,12 @@
+#separator:tab
+#html:true
+#guid column:1
+#notetype column:2
+#deck column:3
+#tags column:7
+f9,;byN3TN	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykAdjacent::GeneralSecurity::General	"IaC acronym:&nbsp;<b><span style=""font-weight: 400;"">HCL</span></b>"	"<b><span style=""font-weight: 400;"">HashiCorp Configuration Language (terraform)</span></b>"	0d6d0868-c4ef-42e1-b80d-0087b088d82e	AnkiHub_Subdeck::SnykCollab::Acronyms
+GXnvYIQ?*7	Basic	SnykAdjacent::GeneralSecurity::General	Networking Acronym: CIDR	<b>Classless Inter-Domain Routing</b>		
+sx::mG@)TE	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykAdjacent::GeneralSecurity::General	Security: measuring a security tool's false positives rate	Precision	f4ae506f-c3db-44d3-8402-305d71071315	AnkiHub_Subdeck::SnykCollab::Acronyms
+l7GAp<AQ6O	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykAdjacent::GeneralSecurity::General	Security: word measuring a security tool's percent of issues found out of total issues	recall	4c2fc7a2-48cc-4f3c-a73b-9050d08d21e1	AnkiHub_Subdeck::SnykCollab::Acronyms
+lJc]X*]O^5	Basic	SnykAdjacent::GeneralSecurity::General	Security: Who is main vendor pushing OCSF?	Amazon		
+qEeU^+,e?@	Basic	SnykAdjacent::GeneralSecurity::General	Security&nbsp;Acronym: OCSF was announced by AWS when?	2022		

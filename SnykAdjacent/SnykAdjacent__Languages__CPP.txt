@@ -1,0 +1,19 @@
+#separator:tab
+#html:true
+#guid column:1
+#notetype column:2
+#deck column:3
+#tags column:6
+bLpS-,w>>c	Basic	SnykAdjacent::Languages::CPP	C++: What are 4 macro types?	Chain macros, Object-like macros, Function-like macros, and Multi-line macros	
+rWp)VoxnUv	Basic	SnykAdjacent::Languages::CPP	C++: object-like macro in C++ Macros is an identifier that gets replaced by ______	code fragments	
+j}X*MhJ36d	Basic	SnykAdjacent::Languages::CPP	C++: function-like macro is almost similar to the ______ in a program	function call	
+iGL3g]FdN@	Basic	SnykAdjacent::Languages::CPP	C++: multi-line macro contains more than one line of_____ in it.	macros	
+Jx5Wk?+hCA	Basic	SnykAdjacent::Languages::CPP	C++:&nbsp;&nbsp;chain macros in C++ Macros are defined as macros inside the____	macros	
+eghFBc3Z?k	Basic	SnykAdjacent::Languages::CPP	"C++: 4 reasons we should not use&nbsp;macros with the&nbsp;#define:"	No scoping, No type checking, No access control, and No symbol	
+OG&%>&W-lV	Basic	SnykAdjacent::Languages::CPP	C++: preprocessor function is used to&nbsp;<strong>check</strong>&nbsp;if a macro is defined earlier or not	"#ifdef"	
+r@`*;7TL+S	Basic	SnykAdjacent::Languages::CPP	C++: This directive is used to&nbsp;<strong>remove the definitions</strong>&nbsp;related to a particular macro	"#undef"	
+o>}Lw,adlN	Basic	SnykAdjacent::Languages::CPP	C++: We can define the macro by using a&nbsp;____ directive	"#define&nbsp;"	
+kx|{jP(!X*	Basic	SnykAdjacent::Languages::CPP	"C++: what type of macro is&nbsp;<span style=""white-space: pre-wrap;"">#</span><span style=""white-space: pre-wrap;"">define</span><span style=""white-space: pre-wrap;""> min(x, y) (((x) &lt; (y)) ? (x) : (y))</span>"	Function-like macro	
+JysoE}Hxn*	Basic	SnykAdjacent::Languages::CPP	"C++: what type of macro is&nbsp;<span style=""white-space: pre-wrap;"">#</span><span style=""white-space: pre-wrap;"">define</span><span style=""white-space: pre-wrap;""> DATE 25</span>"	object-like macro	
+kGp=gFDQ|+	Basic	SnykAdjacent::Languages::CPP	"C++: what type of macro is :&nbsp;<br><span style=""white-space: pre-wrap;"">#</span><span style=""white-space: pre-wrap;"">define</span><span style=""white-space: pre-wrap;""> FACEBOOK FOLLOWERS
+</span><span style=""white-space: pre-wrap;"">#</span><span style=""white-space: pre-wrap;"">define</span><span style=""white-space: pre-wrap;""> FOLLOWERS 150</span>"	Chain Macro	

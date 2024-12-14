@@ -1,0 +1,8 @@
+#separator:tab
+#html:true
+#guid column:1
+#notetype column:2
+#deck column:3
+#tags column:6
+i=@?ZN@]z4	Basic	SnykAdjacent::Partners::StackHawk	Stackhawk 3 co-founders	Joni Klipper, Scott Gerlach, Ryan Severns	
+ysI3L(,je{	Basic	SnykAdjacent::Partners::StackHawk::StackHawk Competitors	Do you know all of these?	gitguardian, permiter 81, digital defense, security scorecard, rapid7, hcl appscan, microfocus fortify on demand, veracode, tenable,&nbsp;Checkmarx, kiuwan, acunetix, invicti, safeguard cyber, data theorem, wallarm fast, probely, pt application inspector, oversecured, constrast, appscanonline, outpost24, appcheck, armor anywhere, quantum armor, zerocopter, digitsec 54, guard rails, risk sense, we45, brakeman, microfocus fortify, code intelligence, synopsys seeker, contrast assess, hacker target, detectify, inspectiv, security for everyone, cyber chief, semgrep, secure stack, thunder scan, armore code, yag-suite, ummumiweb, hdiv, attackflow, raxis, manageengine vuln plus, owasp zed attack proxy, industry was, appknox, reconwith me, sparrow dast, threat mapper	

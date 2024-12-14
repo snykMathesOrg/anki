@@ -1,0 +1,9 @@
+#separator:tab
+#html:true
+#guid column:1
+#notetype column:2
+#deck column:3
+#tags column:6
+hD|V@<&|~^	Basic	SnykAdjacent::GeneralSecurity::Copyright	Security: Copyright - what treaty did the US join changing the need for explicit copyright information on an artists work?	Berne Convention	
+GBfy?25,cg	Basic	SnykAdjacent::GeneralSecurity::Copyright	Security: Copyright - what year did the US join the Berne convention?	1989	
+isQX7Oz}<Y	Basic	SnykAdjacent::GeneralSecurity::Copyright	Security: Copyright - what year was the berne convention formed?	1886	

@@ -1,0 +1,64 @@
+#separator:tab
+#html:true
+#guid column:1
+#notetype column:2
+#deck column:3
+#tags column:6
+"v#KU=m3,=F"	Basic	SnykAdjacent::InfraAsCode	Who is the Terraform Provider?	Terraform is an open-source project	
+fM0UOvk.z0	Basic	SnykAdjacent::InfraAsCode	Terraform: What cloud platforms does terraform support? (3)	<div>all the most prominent cloud platforms, including;&nbsp;</div><ul><li>AWS&nbsp;</li><li>GCP&nbsp;</li><li>Azure</li></ul>	
+BF9<qt^;vF	Basic	SnykAdjacent::InfraAsCode	Terraform: Does Terraform support public and private clouds?	Yes, Terraform supports hybrid clouds	
+CGNU|]@rM+	Basic	SnykAdjacent::InfraAsCode	Terraform: How can you manage terraform cost with a direct integration?	Infracost	
++nv;5Kw:s	Basic	SnykAdjacent::InfraAsCode	TerraGrunt: is a wrapper for ___	TerraForm	
+A-E0pib}4$	Basic	SnykAdjacent::InfraAsCode	AWS: What is AWS' Infra As Code Solution?	"<a href=""https://aws.amazon.com/cloudformation/"">AWS CloudFormation</a>"	
+n.UCJ0wj;O	Basic	SnykAdjacent::InfraAsCode	AWS: Does AWS CloudFormation support other environments?	No, locks you into AWS IaC	
+Iy55y(Y${}	Basic	SnykAdjacent::InfraAsCode	AWS: What markup languages are Cloud Formation templates written in?	YAML and JSON	
+t5jLmCe})3	Basic	SnykAdjacent::InfraAsCode	AWS:&nbsp;What kind of trigger allows you to restore infrastructure to a previous state after a CloudFormation Error?	"<a href=""https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/using-cfn-rollback-triggers.html"">Rollback Trigger</a>"	
+lw[F9KOa/%	Basic	SnykAdjacent::InfraAsCode	Azure: What is Microsofts IaC Solution?	"<a href=""https://azure.microsoft.com/en-us/features/resource-manager/"">Azure Resource Manager</a>"	
+jgy?yyPm?[	Basic	SnykAdjacent::InfraAsCode	Azure Resource Manager: What handles dependencies and infrastructure?	Azure Resource Manager (ARM) templates&nbsp;	
+"i1Dxyb.[G#"	Basic	SnykAdjacent::InfraAsCode	Google: What is Google's Infra As Code Solution?	"<a href=""https://cloud.google.com/deployment-manager/docs"">Cloud Deployment Manager</a>"	
+e4sE,?(43I	Basic	SnykAdjacent::InfraAsCode	Google Cloud Deployment Manager: What languages (or markup) are resources managed in ?	YAML or Python	
+x*TUS)NiZa	Basic	SnykAdjacent::InfraAsCode	Pulumi: What vendor manages Pulumi?	Pulumi is open sorce&nbsp;	
+k_H)?v.nGR	Basic	SnykAdjacent::InfraAsCode	Pulumi: With what languages (5) can you define resources in Pulumi?	"several programming languages such as Python, JavaScript, C#, Go, and TypeScript"	
+zpKiiLV%SS	Basic	SnykAdjacent::InfraAsCode	Ansible: What is RedHat's Infra as Code Solution?	"<a href=""https://www.ansible.com/"">Ansible</a>"	
+eb;40w;|IP	Basic	SnykAdjacent::InfraAsCode	Ansible: what are configuration modules called?	"""Playbooks"""	
+AjZB7Ex3y4	Basic	SnykAdjacent::InfraAsCode	Ansible: What is Redhat's Ansible Community Content for deploying Infra As Code?	&nbsp;Ansible Galaxy	
+v~v/zx//j~	Basic	SnykAdjacent::InfraAsCode	Chef: Who acquired Chef in 2020?	Progress	
+K4JougG>&!	Basic	SnykAdjacent::InfraAsCode	Chef: What type of platform is Progress, the company that acquired Chef in 2020?	a Business Application Platform	
+"t2Bb)#v#V4"	Basic	SnykAdjacent::InfraAsCode	Chef: When was Chef founded?	2008&nbsp;	
+y)YOD>uQ@P	Basic	SnykAdjacent::InfraAsCode	Chef: What platforms does Chef deploy to?	cloud-agnostic including AWS, GCP, and Azure Cloud	
+nz-.<Q=ja8	Basic	SnykAdjacent::InfraAsCode	puppet: Is it an open source IaC product?	yes	
+qQ,~rG[OG!	Basic	SnykAdjacent::InfraAsCode	Crossplane: What vendor manages Crossplane?	"<a href=""https://crossplane.io/"">Crossplane</a> is open-source&nbsp;"	
+bJDk1p_;B<	Basic	SnykAdjacent::InfraAsCode	Crossplane: What cli tool is the main mechanism?	kubectl	
+oS>593`~j:	Basic	SnykAdjacent::InfraAsCode	Vagrant: What audience is the Infra as Code tool intended for?	for professionals using a small number of Virtual Machines	
+"N<?#lH#27"	Basic	SnykAdjacent::InfraAsCode	Vagrant: Who is the creator?	HashiCorp	
+>A,^hUQ:x	Basic	SnykAdjacent::InfraAsCode	Vagrant: configurations are saved as:&nbsp;	a Vagrantfile	
+x4,e)d<XCW	Basic	SnykAdjacent::InfraAsCode	SaltStack: What vendor manages it?	open-source	
+FVuwdjW1B.	Basic	SnykAdjacent::InfraAsCode	Chef:&nbsp;What component is the center of operations ?	<strong>A Chef server</strong>	
+JzKxOc~]hU	Basic	SnykAdjacent::InfraAsCode	Chef: In what Core Component is&nbsp;the configuration code created, tested, and changed?	Chef WorkStations	
+gLkY.i3?jC	Basic	SnykAdjacent::InfraAsCode	Chef: What is the Chef component name called that changes are&nbsp;pushed to?	Chef Nodes	
+"GNKDg#)ztk"	Basic	SnykAdjacent::InfraAsCode	Chef: What are Server Recipes Stored/Grouped on?	"the ""Bookshelf"""	
+RbwL;`//lZ	Basic	SnykAdjacent::InfraAsCode	Chef: What is the CLI tool called	"""Knife"""	
+j%+z}]La?v	Basic	SnykAdjacent::InfraAsCode	Chef: What is the test area called?	"""Test Kitchen"""	
+il&/N~P[j%	Basic	SnykAdjacent::InfraAsCode	"Chef: What does the component ""Ohai"" do ?"	"collects 
+system configuration data"	
+dRsc1kixl0	Basic	SnykAdjacent::InfraAsCode	Chef: What is the component that&nbsp;collects system configuration data to be used in cookbooks and is required to be present on every node ?	"""Ohai"""	
+fG}Ij&ABlJ	Basic	SnykAdjacent::InfraAsCode	Chef: to be adept at Chef, what language is a required programming skill ?	Ruby	
+nz[;o(a5+D	Basic	SnykAdjacent::InfraAsCode	SaltStack: What programming language does it utilize ?	Python	
+"w<#:!T4Wv3"	Basic	SnykAdjacent::InfraAsCode	Puppet: Where was it founded?	Portland, Oregon	
+N$eF1dz=gd	Basic	SnykAdjacent::InfraAsCode	Puppet: What company runs it?	Puppet	
+E+A{P;!<{I	Basic	SnykAdjacent::InfraAsCode	Vagrant: to create a config, you set up a _____&nbsp; and run your ____	Virtual Machine - tests	
+"CHw_#@Yw*`"	Basic	SnykAdjacent::InfraAsCode	RedHat Ansible: what are Playbooks written in?	YAML	
+H%`XgJ}y/b	Basic	SnykAdjacent::InfraAsCode	Terragrunt: what does Terragrunt abstract?	Cloud Environment Variables	
+c?&Gsf~]F(	Basic	SnykAdjacent::InfraAsCode	Spacelift: what IaC tools does Spacelift support? (7)	&nbsp;OpenTofu, Terraform, Terragrunt, CloudFormation, Pulumi, Kubernetes, and Ansible	
+E?PG_(-^Re	Basic	SnykAdjacent::InfraAsCode	Kubernetes: what is the smallest deployable units of computing that can be created and managed?	Pods	
+"k#=el;cO$V"	Basic	SnykAdjacent::InfraAsCode	Kubernetes: is it extensible?	yes	
+bGa}>o4r)9	Basic	SnykAdjacent::InfraAsCode	Kubernetes: is it open source?	yes	
+k(h}$M{NPa	Basic	SnykAdjacent::InfraAsCode	Puppet: does Puppet have a paid version?	yes, an enterprise closed source version	
+uuA<{MTI@`	Basic	SnykAdjacent::InfraAsCode	Chef: Where was Chef founded?	Seattle	
+n%QL{iW:*P	Basic	SnykAdjacent::InfraAsCode	Chef: what was Chef originally called?	OpsCode	
+DvU!]3}}wW	Basic	SnykAdjacent::InfraAsCode	Chef: What is origin of name?	"Original tool used ""Recipes"""	
+uzaA!AVpwA	Basic	SnykAdjacent::InfraAsCode	Terraform: is Infracost open source?	&nbsp;yes	
+x=]HZ4]$IY	Basic	SnykAdjacent::InfraAsCode	Terraform: when was infracost released ?	June 2020	
+y<ywr?EnsJ	Basic	SnykAdjacent::InfraAsCode	AzurePipeline: where do we configure snyk auth?	Service Connection	
+qgXw+rvY:>	Basic	SnykAdjacent::InfraAsCode	AzurePipeline: where do we add snyk scan for pipeline action?	Marketplace	
+v;-Q$FP2Zn	Basic	SnykAdjacent::InfraAsCode	AzurePipeline: how do we add Snyk to pipeline.yml?	Add task on right	
