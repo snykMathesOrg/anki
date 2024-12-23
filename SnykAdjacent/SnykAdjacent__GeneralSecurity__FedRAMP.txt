@@ -11,10 +11,8 @@ Scan Requirements Guide?"	CSP_Vulnerability_Scanning_Requirements
 M0OUimN9I,	Basic	SnykAdjacent::GeneralSecurity::FedRAMP	FedRAMP: when was&nbsp;CSP_Vulnerability_Scanning_Requirements published?	2018		
 v2Rm_|qTW<	Basic	SnykAdjacent::GeneralSecurity::FedRAMP	FedRAMP: when was&nbsp;CSP_Vulnerability_Scanning_Requirements v2 published?	2022		
 tl@3&Y(VDC	Basic	SnykAdjacent::GeneralSecurity::FedRAMP	FedRAMP: what did CSP_Vulnerability_Scanning_Requirements v2 add?	Container guidance		
-G7gcSc`vq-	Basic	SnykAdjacent::GeneralSecurity::FedRAMP	FedRAMP: what 3 areas CSP_Vulnerability_Scanning_Requirements did v3 refine?	"Consolidated all required scanning
-requirements,&nbsp;container scanning,
-encryption and reporting,&nbsp;supplemental scanning
-remediation reporting."		
+G7gcSc`vq-	Basic	SnykAdjacent::GeneralSecurity::FedRAMP	FedRAMP: what 3 areas CSP_Vulnerability_Scanning_Requirements did v3 refine?	"container scanning,
+<br>encryption reporting,&nbsp;<br>supplemental scanning remediation reporting."		
 t-,81zA4y5	Basic	SnykAdjacent::GeneralSecurity::FedRAMP	FedRAMP: what year CSP_Vulnerability_Scanning_Requirements did was v3 released?	2024		
 yNCSY8,Z~A	Basic	SnykAdjacent::GeneralSecurity::FedRAMP	FedRAMP Acronym:&nbsp;AO	authorizing official		
 f*ZRc-x96y	Basic	SnykAdjacent::GeneralSecurity::FedRAMP	FedRAMP Acronym:&nbsp;3PAOs	third party assessment organizations		

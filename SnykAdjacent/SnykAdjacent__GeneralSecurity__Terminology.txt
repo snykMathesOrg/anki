@@ -5,7 +5,7 @@
 #deck column:3
 #tags column:6
 dDbedJZgi3	Basic	SnykAdjacent::GeneralSecurity::Terminology	Acronym: Security - IOC	Indicator of Compromise	
-P(Uht!$ZhW	Basic	SnykAdjacent::GeneralSecurity::Terminology	Security: 4 examples of an IOC	a file, IP address, domain name, registry key	
+P(Uht!$ZhW	Basic	SnykAdjacent::GeneralSecurity::Terminology	Security: 4 examples of an IOC	file, <br>IP address, <br>domain name, <br>registry key	
 OK^u!xIDeZ	Basic	SnykAdjacent::GeneralSecurity::Terminology	Acronym: Security - IOA	Indicators of Attack	
 "Fbj+D#;.&j"	Basic	SnykAdjacent::GeneralSecurity::Terminology	Security: When was MITRE created?	1958	
 OEFS>%*o6G	Basic	SnykAdjacent::GeneralSecurity::Terminology	Security: What was MITRE civilian projects spun off as?	Mitretek	
