@@ -22,12 +22,7 @@ G=@;Gp=3n2	Basic	SnykCollab::salesMethodologies::meddpicc	what is the p in meddp
 F!o3$!-zSt	Basic	SnykCollab::salesMethodologies::meddpicc	what is the i in meddpicc	<strong>Identify Pain</strong>: Challenges the prospect aims to solve		
 N*uIHJJ]LW	Basic	SnykCollab::salesMethodologies::meddpicc	what is the c in meddpicc	<strong>Champions</strong>: Internal advocates within the prospect's organisation		
 KqabP|M@Z!	Basic	SnykCollab::salesMethodologies::meddpicc	what is the second c in meddpicc	<strong>Competition</strong>: Who else is vying for the deal and how you compare		
-"PDnvK!w-#f"	Basic	SnykCollab::salesMethodologies::neat	what is the 'n' in NEAT?	need		
-yjnacF3c$]	Basic	SnykCollab::salesMethodologies::neat	what is the 'e' in NEAT?	Economic impact		
-o_@BIWnxQA	Basic	SnykCollab::salesMethodologies::neat	what is the 'a' in NEAT?	Access to authority		
-N)alivpRq2	Basic	SnykCollab::salesMethodologies::neat	what is the 't' in NEAT?	Timeline		
 yY=eF3U2jg	Basic	SnykCollab::salesMethodologies::meddpicc	why use meddpicc?	crucial checkpoint, ensuring that sales professionals don't just chase leads, but engage with high-quality prospects		
-c+5mA1rbK?	Basic	SnykCollab::SecurityTopics::Federal	Security Acronym: FISMA	Federal Information Security Management Act &nbsp;		
 M2Fu?yC7,P	Basic	SnykCollab::salesMethodologies::meddpicc	What’s the first priority in command the message ?	Be audible ready&nbsp;		
 qfAeJ*4Gt8	Basic	SnykCollab::salesMethodologies::meddpicc	In command of the message you must be audible ready to what ?	<em>define your solutions to <strong>customer problems</strong></em>		
 t:pYE`pq~M	Basic	SnykCollab::salesMethodologies::meddpicc	In command the message , you define your solutions in what way?	Differentiate you from competitors&nbsp;		
@@ -36,9 +31,6 @@ Hl<9rHz2kB	Basic	SnykCollab::salesMethodologies::meddpicc	What company focuses o
 k?-1Q-;syQ	Basic	SnykCollab::salesMethodologies::meddpicc	In Command of the Message, what do we sell solutions to?	Customers Problems		
 n|f5AWZC6<	Basic	SnykCollab::salesMethodologies::meddpicc	Command of the message - differentiate from...?	Competitors		
 A3R/s60Cnz	Basic	SnykCollab::salesMethodologies::meddpicc	Once you have Command of the Message, what are you able to do?	"<h3>""Charge a Premium""</h3>"		
-NDK]*T=Fgy	Basic	SnykCollab::SecurityTopics::Federal	Security Acronym: FedRAMP JAB	Federal Risk Authorization Management Program, Join Authorization Board		
-DqH>*QV?vB	Basic	SnykCollab::SecurityTopics::Federal	FISMA acronym : CMVP	Cryptographic Module Validation Program		
-A)S^s%dMDy	Basic	SnykCollab::SecurityTopics::Federal	Security Acronym: NVLAP	National Voluntary Laboratory Accreditation Program		
 v}*(Eye%vF	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::Snyk::TechWeUse::SSO	SSO acronym: ADFS	"<b><span style=""font-weight: 400;"">Active Directory Federation Services</span></b>"	982cd7f8-d635-4a10-9f08-f72b3ce19fdd	AnkiHub_Subdeck::SnykCollab::Acronyms
 hR,O*V;;Lo	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::SecurityTopics::General	"Security acronym:&nbsp;<b><span style=""font-weight: 400;"">ASPM</span></b>"	"<b><div><span style=""font-weight: 400;"">Application Security Posture Management</span></div></b>"	3fa17c7b-df07-47b7-9988-fc93ff4ca1b3	AnkiHub_Subdeck::SnykCollab::Acronyms
 lJKpaKA&sO	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::SecurityTopics::General	"Security acronym:&nbsp;<b><span style=""font-weight: 400;"">CCSS</span></b>"	Common Configuration Scoring System	beb47b60-f687-4210-99d7-014e187b162a	AnkiHub_Subdeck::SnykCollab::Acronyms
@@ -134,3 +126,37 @@ mF$+yA>*.=	Basic	SnykCollab::SecurityTopics::General	Security Acronym: DSPM	Data
 "r:-#7^qM`t"	Basic	SnykCollab::SecurityTopics::General	Security Acronym: KSPM	Kubernetes Security Posture Management		
 w}NcG1BE8F	Basic	SnykCollab::SecurityTopics::General	Security Acronym: CWPP	Cloud Workload Protection Platform		
 VF/p7B`o~	Basic	SnykCollab::SecurityTopics::General	Security Acronym: CNAPP	<b>Cloud Native Application Protection Platforms</b>		
+w0!H@KW=8x	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::salesMethodologies::meddpicc	ForceManagement: The initial phase where members of executive team provide insight and feedback surrounding your customer's problems is called:	Discovery		
+y~2bgbUC8.	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::salesMethodologies::meddpicc	Force Management: the second phase where executive team further refined the specific requirements for helping your customers solve these problems AND set you apart from competition is called:	Workshop		
+H4s>/Z<V:f	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::salesMethodologies::meddpicc	ForceManagement: pre-work assignments are meant to prepare you for this 3rd phase, where you will receive training on Command of the Message methodology	Delivery		
+Ps:*QbNK9W	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::salesMethodologies::meddpicc	Last phase which will reinforce training learned, is called:	Sustain		
+O14l+o_|>d	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::salesMethodologies::meddpicc	"<em><span style=""font-style: inherit; font-weight: inherit;"">Command of the Message</span></em>&nbsp;focuses on the “____ of _____” where you must prove that you understand your customer’s business and can articulate the value and differentiation of your solutions in a way that resonates with the buyer.&nbsp;"	moment of truth		
+P>Wr1a~3I9	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::salesMethodologies::meddpicc	"<em><span style=""font-style: inherit; font-weight: inherit;"">Command of the Message</span></em>&nbsp;focuses on the “moment of truth” where you must prove that you understand your customer’s ____ and can articulate the ___ and ____ of your solutions in a way that resonates with the buyer.&nbsp;"	business; value; differentiation		
+k:CxikKIvN	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::salesMethodologies::meddpicc	CoM: Essential Question: What ___ do you currently ___ for your customers?	problems; solve		
+eQ!2Fgf1yx	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::salesMethodologies::meddpicc	CoM: Essential Question: How do you specifically solve _____ for your customer?	problems		
+E^84Y|nhdT	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::salesMethodologies::meddpicc	CoM: Essential Questions: How do you do it differently than your ____ ?	competition?		
+l]`ZyG0W9t	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::salesMethodologies::meddpicc	CoM: Essential Questions: what is your ___ ?	proof		
+lG1$c!1hA@	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::salesMethodologies::meddpicc	The top-of-mind topics that drive the most value for your buying audiences	value drivers		
+dfMDgoHvCz	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::salesMethodologies::meddpicc	Value drivers are the&nbsp; top-of-mind topics that drive the most ____ for your buying audiences	value		
+Cwvqd?TQ(A	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::salesMethodologies::meddpicc	Value drivers are based on the typical ___ ___ and ___ ___ that your buyers face on a day-to-day basis	pain points and business objectives		
+"Aj/>,tFA#@"	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::salesMethodologies::meddpicc	Tool to help you articulate how you can address your customers' problems	Value-based converation		
+"v`Y#GQJm4L"	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::salesMethodologies::meddpicc	Questions used to uncover your customers' Value Drivers and associated Value-Based Conversation content.	Discovery Questions		
+N:mB<(}DkG	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::salesMethodologies::meddpicc	These differentiators will assist you in articulating how your company is different.	Defensible Differentiators		
+I@+bGxDP+8	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::salesMethodologies::meddpicc	Questions asked with the intent of trapping the competition by introducing your differentiators as Required Capabilities.	Trap-setting questions		
+m/pgssI|qj	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::salesMethodologies::meddpicc	Seller Deficit Disorder: Buyers don't believe you understand their ___	Pain		
+pZO>z+OJej	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::salesMethodologies::meddpicc	Seller Deficit Disorder: Establish a ___ ___ between their pain and your product or server	direction correlation		
+NV@5CR&ze%	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::salesMethodologies::meddpicc	Seller Deficit Disorder: You have ___ Access within buyer's org	Limited		
+rynHUQbsot	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::salesMethodologies::meddpicc	Seller Deficit Disorder: Your Solution is Perceived as ___	Expensive		
+NK;aV1Cf-K	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::salesMethodologies::meddpicc	Seller Deficit Disorder: Your prospect can't ____ between competitive offerings	differentiate		
+mD0jV?U89J	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::salesMethodologies::meddpicc	The goal is to negotiate on the cost of the ___ versus the cost of the ____	pain; solution		
+hu;YKjJMLo	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::salesMethodologies::meddpicc	Seller Deficit Disorder: you aren't clearly articulating your ____	value		
+C7kv@9&%+{	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::salesMethodologies::meddpicc	<em>Command of the Message</em>&nbsp;mindset creates a transformation from “inside out”, or leading with products, to “outside in”, or leading with ____ _____.	customer needs		
+D!/b+a,=DK	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::salesMethodologies::meddpicc	Value-Based Conversation: Before scenarios are associated with ___ consequences	negative		
+C6xigF!ms1	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::salesMethodologies::meddpicc	Value-Based Conversation: After Scenarios are associated with ___ business outcomes	positive		
+mQ_Cyf?%|]	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::salesMethodologies::meddpicc	Value-Based Conversation: Required Capabilities are measured by ___	metrics		
+NXj+V%7tf@	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::salesMethodologies::meddpicc	provides a repeatable format for leveraging the Value-Based Conversation talk track in customer conversations	The Mantra		
+O7!xbE-wFG	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::salesMethodologies::meddpicc	Mantra: I hear you're trying to achive these positive ___ ____; and to achieve them these are the ___ ___ capabilities that you would need; and you would measure them with these ___; let me tell you how we would do it better	business outcomes; minimum required; metrics		
+txo!1t&lp	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::salesMethodologies::meddpicc	"Great Discovery Questions are both ""open-____"" and ""two-___""."	ended; sided		
+G}1H8J7hs1	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::salesMethodologies::meddpicc	questions where both you AND customer learn from the question	two-sided question		
+zSMY*7uo.N	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::salesMethodologies::meddpicc	Sales Discovery Acronym: TED	Tell me about..., Explain for me..., Describe for me...		
+"f+H3j16S#+"	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::salesMethodologies::meddpicc	Each differentiator contains three major components: Customer ____, D____, and _____ Questions.&nbsp;	Value; Defensibility; Trap-Setting		
