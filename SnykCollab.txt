@@ -160,3 +160,18 @@ txo!1t&lp	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::salesMethodolog
 G}1H8J7hs1	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::salesMethodologies::meddpicc	questions where both you AND customer learn from the question	two-sided question		
 zSMY*7uo.N	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::salesMethodologies::meddpicc	Sales Discovery Acronym: TED	Tell me about..., Explain for me..., Describe for me...		
 "f+H3j16S#+"	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::salesMethodologies::meddpicc	Each differentiator contains three major components: Customer ____, D____, and _____ Questions.&nbsp;	Value; Defensibility; Trap-Setting		
+s,Hd+z:&3:	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::Snyk::ProductSpecific::DAST	DAST: Probely: Used to filter reporting	Labels		
+eXz(17]nPH	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::Snyk::ProductSpecific::DAST	DAST: Probely: Assign target to team is helpful for R____ and A____	Reporting and Access		
+ys0{U(ZulD	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::Snyk::ProductSpecific::DAST	DAST: Probely: Basic authentication requires pointing probely to the U___ and P___ fields	User and Password		
+ANLk$~jxhu	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::Snyk::ProductSpecific::DAST	DAST: Probely: Supports 2fa via Time-Based O__ ___ Passwords	Time-based One Time Passwords (TOTP)		
+z(?-Wi8%!,	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::Snyk::ProductSpecific::DAST	2fa Acronym: TOTP	Time-based one time passwords		
+lR;FzS~df3	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::Snyk::ProductSpecific::DAST	DAST: Probely: Oauth Flow, redirects, multiple pages for logins can be handled by ___ Sequence	Login Sequence		
+ifOFrr~O7*	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::Snyk::ProductSpecific::DAST	DAST: Probely: Recording a login sequence is done with the Probely Browser ____	extension		
+EmThGc[-]k	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::Snyk::ProductSpecific::DAST	DAST: Probely: Navigation sequences are created using the Probely Browser ____	Extension		
+jytf)}`rxY	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::Snyk::ProductSpecific::DAST	DAST: Probely: Navigation Sequences can also be created by converting _____ scripts	Selenium		
+kJg1o6Kuh2	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::Snyk::ProductSpecific::DAST	DAST: Probely: to not scan certain pages or path add it to the ___ list	reject		
+w$_X[ah<{Z	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::Snyk::ProductSpecific::DAST	DAST: Probely: to only scan part of the url subdirectory for speed at it to the ____ scope list	reduced		
+dh}ANSGJUL	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::Snyk::ProductSpecific::DAST	DAST: Probely: Paths to crawl and scan go in the ____ List	Seeds		
+y@_&yJdm39	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::Snyk::ProductSpecific::DAST	DAST: Probely: If you just want to scan NEW or UPDATED pages use the Partial Scans: ____&nbsp;	Incremental		
+"Bo+p98#hmu"	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::Snyk::ProductSpecific::DAST	DAST: Probely: the two major ticketing systems we support are A___ Devops and J____	Azure Devops and Jira		
+Lu!G_Np(K3	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::Snyk::ProductSpecific::DAST	DAST: Probely: ticket integrations are ___-directional	bi-directional		
