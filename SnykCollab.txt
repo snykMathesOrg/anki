@@ -4,72 +4,26 @@
 #notetype column:2
 #deck column:3
 #tags column:7
-sGX5%}%9f^	Basic	SnykCollab::SecurityTopics::General	Security Acronym: SAST	Static Application Security Testing		
-A&d@M1Dbp)	Basic	SnykCollab::SecurityTopics::General	Acronym: AppSec	Application Security		
-e]kf,s?T(Z	Basic	SnykCollab::Snyk::ProductSpecific::Code	What does SAST scan ? (3 things)	application’s source, binary, or byte code		
-A-IYPm7v6c	Basic	SnykCollab::SecurityTopics::General	What is a security framework that scans&nbsp;an application’s source, binary, or byte code ?	SAST (Static Application Security Testing)		
-JYUsDx~5Ga	Basic	SnykCollab::SecurityTopics::General	Acronym: IAST	Interactive Application Security Testing		
-t(y;b%WV~l	Basic	SnykCollab::SecurityTopics::General	is IAST called grey/white/black testing ?	grey box testing		
-"nl#;4#Ukgs"	Basic	SnykCollab::SecurityTopics::General	What's a more official name for grey box testing?	IAST (Interactive Applicaion Security Testing)		
-QU.acr-6|^	Basic	SnykCollab::SecurityTopics::General	Acronym: DAST	Dynamic Application Security Testing		
-m0oy?yq74r	Basic	SnykCollab::SecurityTopics::General	DAST is black/white/grey security testing?	Black		
-p,DnZ6%Xe|	Basic	SnykCollab::SecurityTopics::General	what is dast also called?	black box testing		
-G!rd=beL_C	Basic	SnykCollab::salesMethodologies::meddpicc	what is the m in meddpicc	<strong>Metrics</strong>: Quantifiable goals the prospect wants to achieve		
-p}$/.UO*]?	Basic	SnykCollab::salesMethodologies::meddpicc	what is the e in meddpicc	<strong>Economic Buyer</strong>: The person with final purchasing authority		
-JxH&6II}k:	Basic	SnykCollab::salesMethodologies::meddpicc	what is the first d in meddpicc	<li><strong>Decision Criteria</strong>: Guidelines the prospect uses for buying</li>		
-zS?{gtl*x	Basic	SnykCollab::salesMethodologies::meddpicc	what is the 2nd d in meddpicc	<strong>Decision Process</strong>: Steps the prospect takes to make a decision		
-G=@;Gp=3n2	Basic	SnykCollab::salesMethodologies::meddpicc	what is the p in meddpicc	<strong>Paper Process</strong>: Administrative steps to finalise the deal		
-F!o3$!-zSt	Basic	SnykCollab::salesMethodologies::meddpicc	what is the i in meddpicc	<strong>Identify Pain</strong>: Challenges the prospect aims to solve		
-N*uIHJJ]LW	Basic	SnykCollab::salesMethodologies::meddpicc	what is the c in meddpicc	<strong>Champions</strong>: Internal advocates within the prospect's organisation		
-KqabP|M@Z!	Basic	SnykCollab::salesMethodologies::meddpicc	what is the second c in meddpicc	<strong>Competition</strong>: Who else is vying for the deal and how you compare		
-yY=eF3U2jg	Basic	SnykCollab::salesMethodologies::meddpicc	why use meddpicc?	crucial checkpoint, ensuring that sales professionals don't just chase leads, but engage with high-quality prospects		
-M2Fu?yC7,P	Basic	SnykCollab::salesMethodologies::meddpicc	What’s the first priority in command the message ?	Be audible ready&nbsp;		
-qfAeJ*4Gt8	Basic	SnykCollab::salesMethodologies::meddpicc	In command of the message you must be audible ready to what ?	<em>define your solutions to <strong>customer problems</strong></em>		
-t:pYE`pq~M	Basic	SnykCollab::salesMethodologies::meddpicc	In command the message , you define your solutions in what way?	Differentiate you from competitors&nbsp;		
-b;3Y.D>u<F	Basic	SnykCollab::salesMethodologies::meddpicc	In CommandOfTheMessage, what does differentiating your solution from your competitors allow you to do?	Charge a premium for your products and services		
-Hl<9rHz2kB	Basic	SnykCollab::salesMethodologies::meddpicc	What company focuses on Command of the message?	Force Management		
-k?-1Q-;syQ	Basic	SnykCollab::salesMethodologies::meddpicc	In Command of the Message, what do we sell solutions to?	Customers Problems		
-n|f5AWZC6<	Basic	SnykCollab::salesMethodologies::meddpicc	Command of the message - differentiate from...?	Competitors		
-A3R/s60Cnz	Basic	SnykCollab::salesMethodologies::meddpicc	Once you have Command of the Message, what are you able to do?	"<h3>""Charge a Premium""</h3>"		
-v}*(Eye%vF	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::Snyk::TechWeUse::SSO	SSO acronym: ADFS	"<b><span style=""font-weight: 400;"">Active Directory Federation Services</span></b>"	982cd7f8-d635-4a10-9f08-f72b3ce19fdd	AnkiHub_Subdeck::SnykCollab::Acronyms
-hR,O*V;;Lo	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::SecurityTopics::General	"Security acronym:&nbsp;<b><span style=""font-weight: 400;"">ASPM</span></b>"	"<b><div><span style=""font-weight: 400;"">Application Security Posture Management</span></div></b>"	3fa17c7b-df07-47b7-9988-fc93ff4ca1b3	AnkiHub_Subdeck::SnykCollab::Acronyms
-lJKpaKA&sO	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::SecurityTopics::General	"Security acronym:&nbsp;<b><span style=""font-weight: 400;"">CCSS</span></b>"	Common Configuration Scoring System	beb47b60-f687-4210-99d7-014e187b162a	AnkiHub_Subdeck::SnykCollab::Acronyms
 rlSjZuGVd~	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::Snyk	"Snyk: container acronym:&nbsp;<b><span style=""font-weight: 400;"">CRA</span></b>"	container registry agent	90805110-2468-4906-9e77-b3c3f5b64cbc	AnkiHub_Subdeck::SnykCollab::Acronyms
-rZ6og0=rqo	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::SecurityTopics::General	"security acronym:&nbsp;<b><span style=""font-weight: 400;"">CVE</span></b>"	"<b><span style=""font-weight: 400;"">Common Vulnerabilities and Exposures</span></b>"	eda5b35b-f433-4b8f-bc7f-ac10bfa93186	AnkiHub_Subdeck::SnykCollab::Acronyms
 M&;m>4i2_p	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::Snyk	applications acronym: FF	feature flag	0f60bbe7-ff62-415b-bac8-11226f88bff0	AnkiHub_Subdeck::SnykCollab::Acronyms
-qgS)uJ]YDt	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::Snyk::TechWeUse	license acronym: GPG	GNU Privacy guard	a03ffa4a-7f11-4ce7-880f-3733b5093fb8	AnkiHub_Subdeck::SnykCollab::Acronyms
-"zyD0L#Zz*)"	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::Snyk::TechWeUse::SSO	"SSO acronym:&nbsp;<b><span style=""font-weight: 400;"">OIDC</span></b>"	"<b><span style=""font-weight: 400;"">OpenID Connect</span></b>"	1849f51e-4e5c-4844-91a3-f92b37ccbef2	AnkiHub_Subdeck::SnykCollab::Acronyms
-Hvhf(Z%ZmF	Basic	SnykCollab::Snyk::Configuration	when setting up organizations, what are the 6 things you might consider?	- number of projects<br>- report focus<br>- integrations<br>- shared policies<br>- access control<br>- notifications		
+Hvhf(Z%ZmF	Basic	SnykCollab::Snyk::Configuration	when setting up organizations, what are the 6 things you might consider?<br><br>- Number of ____<br>- R_____<br>- I_____<br>- Shared P_____<br>- A____ C____<br>- N______	- number of projects<br>- report focus<br>- integrations<br>- shared policies<br>- access control<br>- notifications		
 Km<ca}A)/u	Basic	SnykCollab::Snyk::Configuration	what are 4 common ways to structure organizations?	- team<br>- application<br>- environment<br>- product		
 Dadiy28ho7	Basic	SnykCollab::Snyk::Configuration	two main downsides of structuring an organization by team?	multiple teams maintain apps<br>future restructuring, restructure account		
 pIA*_>;w8T	Basic	SnykCollab::Snyk::Configuration	when creating organizations per application, what is important?	application scope definition		
 s-s7LYC`ZC	Basic	SnykCollab::Snyk::Configuration	what is one naming convention that could be used for an organization?	business unit + product name		
 o$75,wHM{y	Basic	SnykCollab::Snyk::Configuration	2 ways Snyk policies applied in ui?	project attributes or organization		
 N%tksr2KY[	Basic	SnykCollab::Snyk::Configuration	what is max recommended organizations in a group?	2000		
-O]SabWdsz(	Basic	SnykCollab::Snyk::Configuration	what is recommended project limit per org?&nbsp;	10k		
+O]SabWdsz(	Basic	SnykCollab::Snyk::Configuration	what is recommended project limit per org?&nbsp;	15k		
 N~sg}8WTON	Basic	SnykCollab::Snyk::Configuration	what is hard cap project limit per org?	25k		
 Jllc+$e$U/	Basic	SnykCollab::Snyk::Configuration	what is recommended maximum users per org?	2k		
 sO&?,.h))M	Basic	SnykCollab::Snyk::Configuration	AppRisk token - do we recommend read or read/write?	recommend read as it has broad access across the SCM		
 "yymm&Il#M6"	Basic	SnykCollab::Snyk::ProductSpecific	4 advantages of Snyk over open source competitors:	quality and timeliness of vuln reporting<br>far more integrations<br>(lack of) reporting<br>customer care + support		
 Jo4!u<$(_/	Basic	SnykCollab::Snyk::ProductSpecific	Snyk: 4 main advantages over commercial alternatives	quality / timeliness of vulns<br>ease of use<br>results / accuracy<br>platform - alternatives often only offer sca or sast only		
-"A[T#^}/{]x"	Basic	SnykCollab::Snyk::ProductSpecific	what 5 factors go into priority score?	severity level<br>exploit maturity<br>reachability of code<br>fixability<br>social trends (twitter)		
-kTYQEkpEnO	Basic	SnykCollab::Snyk::TechWeUse::SBOM	SBOM acronym: PURL	Package Uniform Resource Locators		
-AsF}I!LVMn	Basic	SnykCollab::Snyk::TechWeUse::SBOM	what sbom minimum element does PURL fall under?	other unique identifiers		
+"A[T#^}/{]x"	Basic	SnykCollab::Snyk::ProductSpecific	what 5 factors go into priority score?<br><br>S____<br>E____ M____<br>R_____<br>F_____<br>S____ T____	severity level<br>exploit maturity<br>reachability of code<br>fixability<br>social trends (twitter)		
 M!ylY~%by`	Basic	SnykCollab::Snyk::TechWeUse::SBOM	what are the two main SBOM formats?	spdx and cyclonedx		
-D+<U05q{k(	Basic	SnykCollab::Snyk::TechWeUse::SBOM	sbom data is (static/dynamic?)	static		
-zK%AG[%:XV	Basic	SnykCollab::Snyk::TechWeUse::SBOM	sbom vulnerability data is (dynamic/static)	dynamic		
 rVi[+aLoq:	Basic	SnykCollab::Snyk::TechWeUse::SBOM	why is snyk well situated for sbom creation?	our SCA accuracy is market leading		
-g[Sy4}sx%P	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::SecurityTopics::General	Acronym : SCA	Software composition analysis&nbsp;	0b7689a0-b144-4a55-a311-e1efb1cded8c	AnkiHub_Subdeck::SnykCollab::Acronyms
-"Bi.e&.S<#q"	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::SecurityTopics::General	acronym: A prioritized list of the top 25 most dangerous software errors, compiled by the SANS Institute, aimed at helping developers and security professionals to address the most prevalent and critical programming errors.	SANS-25	48845732-a46e-40f6-b6ae-003029959ce6	AnkiHub_Subdeck::SnykCollab::Acronyms
-z~+HmL@&wA	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::SecurityTopics::General	acronym: CWE	Common Weakness Enumeration	65252a33-d647-4f44-a314-28da8bba3317	AnkiHub_Subdeck::SnykCollab::Acronyms
-"qkR7v:q9P#"	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::Snyk::ProductSpecific::Code	in interfile semantic dataflow analysis, what is an example source?	user input	86347290-d901-4e9c-a516-8144cd546755	AnkiHub_Subdeck::SnykCollab::Acronyms
-AUu~NLJjcy	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::SecurityTopics::General	snyk acronym: sarif	static analysis results interchangeable format	bf707b8f-8a3b-4108-87aa-5a333cecd73b	AnkiHub_Subdeck::SnykCollab::Acronyms
-g-cAnV%Rwl	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::SecurityTopics::General	acronym: OWASP	The&nbsp;<b>Open&nbsp;Web Application Security&nbsp;Project</b>	11fa1e1b-d229-4344-b316-17447c2ff51e	AnkiHub_Subdeck::SnykCollab::Acronyms
-)%d8X-u.T	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::Snyk::ProductSpecific::Code	Acronym: what is XXE?	XML external entity injection	87e40e94-3cba-47d4-b87e-8e08df93d1c5	AnkiHub_Subdeck::SnykCollab::Acronyms
 "L#+^T/r;-R"	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::Snyk	Snyk - SLCE	Snyk Local Code Engine&nbsp;	8f99d828-a685-48df-a50f-4e3f3dd51aed	AnkiHub_Subdeck::SnykCollab::Acronyms
 lM+Ui<NJib	Basic	SnykCollab::Snyk::Configuration	What tool is best for deploying large scale deployments?	snyk-api-import		
-"Ck}#i{yxP1"	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::SecurityTopics::General	Acronym: OCI	Open Container Iniative	359cc011-ac08-4e50-bdc9-df651240e09d	AnkiHub_Subdeck::SnykCollab::Acronyms
-J_Pk62{Nc:	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::SecurityTopics::General	Security Acronym: NVD	<b>National Vulnerability Database</b>	93989356-efbc-44e7-a62c-8e3906922a6d	AnkiHub_Subdeck::SnykCollab::Acronyms
 BdT)q?;~59	Basic	SnykCollab::Snyk::ProductSpecific	What is Snyk's Vulnerability DB for linux called?	VulnDB for linux		
 l4l5HURvUm	Basic	SnykCollab::Snyk::ProductSpecific	What was Snyk's vulndb initially based on?	Clair		
 "qDoZWk]#b)"	Basic	SnykCollab::Snyk::ProductSpecific	What is Snyk's vulndb for linux currently based on?	distro security advisories, NVD		
@@ -84,94 +38,33 @@ x$brezb~?F	Basic	SnykCollab::Snyk::Org::Values	Snyk 2024 Objective: Deliver ___ 
 vMjQv5K<)c	Basic	SnykCollab::Snyk::Org::Values	Snyk 2024 Priorities: Win the ___	enterprise		
 CehS{73Ex<	Basic	SnykCollab::Snyk::Org::Values	Snyk 2024 Priorities: Drive _____ Adoption	Customer+Dev		
 sz-04fJ!;F	Basic	SnykCollab::Snyk::Org::Values	Snyk 2024 Priorities: Lead the ____	AppSec Market		
-iRuQyLI!,]	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::Snyk::ProductSpecific::Code	Acronym: SOQL	Salesforce Object Query Language	eb5aa6c1-f768-4b43-8d3f-4ff0e6667e42	AnkiHub_Subdeck::SnykCollab::Acronyms
-Gsk}/3v4b}	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::Snyk::ProductSpecific::Code	Acronym: SOQLi	Salesforce Object Query Language Injection	1266369b-27a4-4c14-8f1e-811f9da660ec	AnkiHub_Subdeck::SnykCollab::Acronyms
-lJ3fJS%WUv	Basic	SnykCollab::SecurityTopics::General	Security Acronym: CVSS	Common Vulnerability Scoring System		
-l$@>W%2-yB	Basic	SnykCollab::SecurityTopics::General	Security Acronym: OSVDB	Open Source Vulnerability Database		
-omor3+!7W+	Basic	SnykCollab::SecurityTopics::General	Security Acronym:&nbsp;<b>CERT/CC</b>	"<a href=""https://en.wikipedia.org/wiki/Computer_emergency_response_team"">computer emergency response team</a>&nbsp;Coordination Center"		
-hdnwmtmm7q	Basic	SnykCollab::SecurityTopics::General	Security Acronym: SEI	Software Engineering Intstitute		
-JTRyQT$K5^	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::Snyk::ProductSpecific::Code	Acronym: CSRF	Cross-Site Request Forgery	ccd843db-0627-43de-933e-42327a99e7c7	AnkiHub_Subdeck::SnykCollab::Acronyms
-ma7Q@T6d*d	Basic	SnykCollab::Snyk::TechWeUse::SSO	SSO acronym: IDB	Identity Broker		
 Q^`MnXhc1	Basic	SnykCollab::Snyk::TechWeUse::SSO	SSO: what is a proxy service that connects multiple Service Providers (SPs) with multiple Identity Providers (IdPs)	Identity Broker		
-"JM#nPHL,n+"	Basic	SnykCollab::Snyk::TechWeUse::SSO	SSO Acronym: SAML	Security Assertion Markup Language		
 rTs[Xc:=&l	Basic	SnykCollab::Snyk::TechWeUse::SSO	Snyk: What Login protocols does Snyk support with self-serve?	SAML only		
 D`d5bpg|cp	Basic	SnykCollab::Snyk::TechWeUse::SSO	SSO: what login protocols support IdP-Initiated Login	SAML		
 sH>2qmR{+g	Basic	SnykCollab::Snyk::TechWeUse::SSO	Snyk SSO: which login protocol might a customer plan to use? (3)	SAML, OIDC, ADFS		
 w@eRcM.%zZ	Basic	SnykCollab::Snyk::TechWeUse::SSO	Snyk SSO: Self Serve SSO trap - when copy/pasting, be careful of extra ____	spaces		
 F3KEhuR|c7	Basic	SnykCollab::Snyk::TechWeUse::SSO	Snyk SSO: Self Serve SSO trap - not specifying ____ (3 things)	name/email/user		
-dfxr<Wk++k	Basic	SnykCollab::Snyk::TechWeUse::SBOM	Acronym: SPDX	Software Package Data Exchange		
-Q=+B{63LfR	Basic	SnykCollab::Snyk::TechWeUse::SBOM	<b>Software Package Data Exchange</b>&nbsp;(SPDX) is an open standard (or format) for communicating ____ information	SBOM		
-g[RrMY`}eJ	Basic	SnykCollab::Snyk::TechWeUse::SBOM	(SPDX) communicates sbom including : (4 things)	components, licenses, copyrights, and security references.		
-BySK|-7pR<	Basic	SnykCollab::Snyk::TechWeUse::SBOM	sbom: who maintains spdx?	an open source project hosted by the Linux Foundation		
-s1g>k>~KL,	Basic	SnykCollab::Snyk::TechWeUse::SBOM	SBOM: what year was first spdx draft?	2010		
-oW=)L17pVz	Basic	SnykCollab::Snyk::TechWeUse::SBOM	when was spdx 3 released?	2023		
-lXTxqZm+@O	Basic	SnykCollab::Snyk::TechWeUse::SBOM	sbom:&nbsp; SPDX represents data in formats that are both ___ and ____ .	machine and human-readable		
-gvmW~8WXm@	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::SecurityTopics::General	Acronym: EPSS	<b>Exploit Prediction Scoring System</b>	ff5c2e4a-5ee5-4194-a159-a786f562a8e2	AnkiHub_Subdeck::SnykCollab::Acronyms
-zM-V;5*R4H	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::SecurityTopics::General	Acronym: <b>ASOC</b>	<b>Application security orchestration and correlation</b>	9309dc68-8011-45ff-b642-dbaba62cda78	AnkiHub_Subdeck::SnykCollab::Acronyms
-e>IFX0nXbR	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::Snyk::ProductSpecific::Code	Acronym: GHAS	GitHub Advanced Security	094c281e-704c-4d3c-8771-2450e8e02d28	AnkiHub_Subdeck::SnykCollab::Acronyms
-rw,5/uo.Qj	Basic	SnykCollab::SecurityTopics::General	Acronym: WIPO	World Intellectual Property Organization		
 A>3}-E?]sv	Basic	SnykCollab::Snyk::Configuration	Snyk Admin: mis-handling customer data will lose customer ____	trust		
 GN@0s=F&oH	Basic	SnykCollab::Snyk::Configuration	Snyk Admin: even a _____ of mis-handling customer data will ____ that customer	perception, lose		
 K?6y}U^^Iz	Basic	SnykCollab::Snyk::Configuration	Snyk Admin: thou shalt not impersonate a customer to ____ another user	invite		
-xhSH-Od?iC	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::SecurityTopics::General	Acronym: CNA	CVE Numbering Authority	16f8a18d-ef97-4d1f-86b5-06f604823996	AnkiHub_Subdeck::SnykCollab::Acronyms
-D;Zuivd4P7	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::SecurityTopics::General	Security Acronym: SSRF	Server-Side Request Forgery	72fa2e0e-005b-4a63-940f-720f3b566ce5	AnkiHub_Subdeck::SnykCollab::Acronyms
-LBvc@(Pa~D	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::Snyk::ProductSpecific::Code	Snyk Code Acronym: SSTI	Server-side Template Injection	0f40c988-a06c-40fa-a4fb-e20c3c393218	AnkiHub_Subdeck::SnykCollab::Acronyms
-Jf<S=h7KjD	Basic	SnykCollab::SecurityTopics::General	Security&nbsp;Acronym: OCSF	"<a href=""https://schema.ocsf.io/"">Open Cybersecurity Schema Framework (OCSF)</a>"		
-gN7@9V!XGV	Basic	SnykCollab::SecurityTopics::General	Security Acronym: ASFF	AWS Security Finding Format (ASFF)		
-zy-wZBdm!}	Basic	SnykCollab::SecurityTopics::General	Security&nbsp;Acronym: ASFF is essentially v1 of ?	OCSF		
-"J?|$#cJ3#="	Basic	SnykCollab::SecurityTopics::General	Security&nbsp;Acronym: OCSF is essentially v2 of ?	ASFF		
-I_O@haozN|	Basic	SnykCollab::SecurityTopics::General	Security Acronym: DLP	Data loss prevention		
-G[lYrqqM[2	Basic	SnykCollab::SecurityTopics::General	Security Acronym: CSPM	Cloud Security Posture Management		
-mF$+yA>*.=	Basic	SnykCollab::SecurityTopics::General	Security Acronym: DSPM	Data Security Posture Management		
-"r:-#7^qM`t"	Basic	SnykCollab::SecurityTopics::General	Security Acronym: KSPM	Kubernetes Security Posture Management		
-w}NcG1BE8F	Basic	SnykCollab::SecurityTopics::General	Security Acronym: CWPP	Cloud Workload Protection Platform		
-VF/p7B`o~	Basic	SnykCollab::SecurityTopics::General	Security Acronym: CNAPP	<b>Cloud Native Application Protection Platforms</b>		
-w0!H@KW=8x	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::salesMethodologies::meddpicc	ForceManagement: The initial phase where members of executive team provide insight and feedback surrounding your customer's problems is called:	Discovery		
-y~2bgbUC8.	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::salesMethodologies::meddpicc	Force Management: the second phase where executive team further refined the specific requirements for helping your customers solve these problems AND set you apart from competition is called:	Workshop		
-H4s>/Z<V:f	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::salesMethodologies::meddpicc	ForceManagement: pre-work assignments are meant to prepare you for this 3rd phase, where you will receive training on Command of the Message methodology	Delivery		
-Ps:*QbNK9W	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::salesMethodologies::meddpicc	Last phase which will reinforce training learned, is called:	Sustain		
-O14l+o_|>d	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::salesMethodologies::meddpicc	"<em><span style=""font-style: inherit; font-weight: inherit;"">Command of the Message</span></em>&nbsp;focuses on the “____ of _____” where you must prove that you understand your customer’s business and can articulate the value and differentiation of your solutions in a way that resonates with the buyer.&nbsp;"	moment of truth		
-P>Wr1a~3I9	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::salesMethodologies::meddpicc	"<em><span style=""font-style: inherit; font-weight: inherit;"">Command of the Message</span></em>&nbsp;focuses on the “moment of truth” where you must prove that you understand your customer’s ____ and can articulate the ___ and ____ of your solutions in a way that resonates with the buyer.&nbsp;"	business; value; differentiation		
-k:CxikKIvN	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::salesMethodologies::meddpicc	CoM: Essential Question: What ___ do you currently ___ for your customers?	problems; solve		
-eQ!2Fgf1yx	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::salesMethodologies::meddpicc	CoM: Essential Question: How do you specifically solve _____ for your customer?	problems		
-E^84Y|nhdT	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::salesMethodologies::meddpicc	CoM: Essential Questions: How do you do it differently than your ____ ?	competition?		
-l]`ZyG0W9t	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::salesMethodologies::meddpicc	CoM: Essential Questions: what is your ___ ?	proof		
-lG1$c!1hA@	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::salesMethodologies::meddpicc	The top-of-mind topics that drive the most value for your buying audiences	value drivers		
-dfMDgoHvCz	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::salesMethodologies::meddpicc	Value drivers are the&nbsp; top-of-mind topics that drive the most ____ for your buying audiences	value		
-Cwvqd?TQ(A	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::salesMethodologies::meddpicc	Value drivers are based on the typical ___ ___ and ___ ___ that your buyers face on a day-to-day basis	pain points and business objectives		
-"Aj/>,tFA#@"	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::salesMethodologies::meddpicc	Tool to help you articulate how you can address your customers' problems	Value-based converation		
-"v`Y#GQJm4L"	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::salesMethodologies::meddpicc	Questions used to uncover your customers' Value Drivers and associated Value-Based Conversation content.	Discovery Questions		
-N:mB<(}DkG	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::salesMethodologies::meddpicc	These differentiators will assist you in articulating how your company is different.	Defensible Differentiators		
-I@+bGxDP+8	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::salesMethodologies::meddpicc	Questions asked with the intent of trapping the competition by introducing your differentiators as Required Capabilities.	Trap-setting questions		
-m/pgssI|qj	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::salesMethodologies::meddpicc	Seller Deficit Disorder: Buyers don't believe you understand their ___	Pain		
-pZO>z+OJej	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::salesMethodologies::meddpicc	Seller Deficit Disorder: Establish a ___ ___ between their pain and your product or server	direction correlation		
-NV@5CR&ze%	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::salesMethodologies::meddpicc	Seller Deficit Disorder: You have ___ Access within buyer's org	Limited		
-rynHUQbsot	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::salesMethodologies::meddpicc	Seller Deficit Disorder: Your Solution is Perceived as ___	Expensive		
-NK;aV1Cf-K	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::salesMethodologies::meddpicc	Seller Deficit Disorder: Your prospect can't ____ between competitive offerings	differentiate		
-mD0jV?U89J	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::salesMethodologies::meddpicc	The goal is to negotiate on the cost of the ___ versus the cost of the ____	pain; solution		
-hu;YKjJMLo	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::salesMethodologies::meddpicc	Seller Deficit Disorder: you aren't clearly articulating your ____	value		
-C7kv@9&%+{	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::salesMethodologies::meddpicc	<em>Command of the Message</em>&nbsp;mindset creates a transformation from “inside out”, or leading with products, to “outside in”, or leading with ____ _____.	customer needs		
-D!/b+a,=DK	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::salesMethodologies::meddpicc	Value-Based Conversation: Before scenarios are associated with ___ consequences	negative		
-C6xigF!ms1	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::salesMethodologies::meddpicc	Value-Based Conversation: After Scenarios are associated with ___ business outcomes	positive		
-mQ_Cyf?%|]	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::salesMethodologies::meddpicc	Value-Based Conversation: Required Capabilities are measured by ___	metrics		
-NXj+V%7tf@	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::salesMethodologies::meddpicc	provides a repeatable format for leveraging the Value-Based Conversation talk track in customer conversations	The Mantra		
-O7!xbE-wFG	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::salesMethodologies::meddpicc	Mantra: I hear you're trying to achive these positive ___ ____; and to achieve them these are the ___ ___ capabilities that you would need; and you would measure them with these ___; let me tell you how we would do it better	business outcomes; minimum required; metrics		
-txo!1t&lp	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::salesMethodologies::meddpicc	"Great Discovery Questions are both ""open-____"" and ""two-___""."	ended; sided		
-G}1H8J7hs1	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::salesMethodologies::meddpicc	questions where both you AND customer learn from the question	two-sided question		
-zSMY*7uo.N	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::salesMethodologies::meddpicc	Sales Discovery Acronym: TED	Tell me about..., Explain for me..., Describe for me...		
-"f+H3j16S#+"	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::salesMethodologies::meddpicc	Each differentiator contains three major components: Customer ____, D____, and _____ Questions.&nbsp;	Value; Defensibility; Trap-Setting		
 s,Hd+z:&3:	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::Snyk::ProductSpecific::DAST	DAST: Probely: Used to filter reporting	Labels		
 eXz(17]nPH	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::Snyk::ProductSpecific::DAST	DAST: Probely: Assign target to team is helpful for R____ and A____	Reporting and Access		
 ys0{U(ZulD	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::Snyk::ProductSpecific::DAST	DAST: Probely: Basic authentication requires pointing probely to the U___ and P___ fields	User and Password		
 ANLk$~jxhu	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::Snyk::ProductSpecific::DAST	DAST: Probely: Supports 2fa via Time-Based O__ ___ Passwords	Time-based One Time Passwords (TOTP)		
-z(?-Wi8%!,	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::Snyk::ProductSpecific::DAST	2fa Acronym: TOTP	Time-based one time passwords		
 lR;FzS~df3	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::Snyk::ProductSpecific::DAST	DAST: Probely: Oauth Flow, redirects, multiple pages for logins can be handled by ___ Sequence	Login Sequence		
 ifOFrr~O7*	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::Snyk::ProductSpecific::DAST	DAST: Probely: Recording a login sequence is done with the Probely Browser ____	extension		
 EmThGc[-]k	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::Snyk::ProductSpecific::DAST	DAST: Probely: Navigation sequences are created using the Probely Browser ____	Extension		
 jytf)}`rxY	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::Snyk::ProductSpecific::DAST	DAST: Probely: Navigation Sequences can also be created by converting _____ scripts	Selenium		
 kJg1o6Kuh2	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::Snyk::ProductSpecific::DAST	DAST: Probely: to not scan certain pages or path add it to the ___ list	reject		
-w$_X[ah<{Z	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::Snyk::ProductSpecific::DAST	DAST: Probely: to only scan part of the url subdirectory for speed at it to the ____ scope list	reduced		
+w$_X[ah<{Z	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::Snyk::ProductSpecific::DAST	DAST: Probely: to only scan part of the url subdirectory for speed add it to the ____ scope list	reduced		
 dh}ANSGJUL	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::Snyk::ProductSpecific::DAST	DAST: Probely: Paths to crawl and scan go in the ____ List	Seeds		
 y@_&yJdm39	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::Snyk::ProductSpecific::DAST	DAST: Probely: If you just want to scan NEW or UPDATED pages use the Partial Scans: ____&nbsp;	Incremental		
 "Bo+p98#hmu"	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::Snyk::ProductSpecific::DAST	DAST: Probely: the two major ticketing systems we support are A___ Devops and J____	Azure Devops and Jira		
 Lu!G_Np(K3	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::Snyk::ProductSpecific::DAST	DAST: Probely: ticket integrations are ___-directional	bi-directional		
+m54XV`X*X,	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::Snyk::ProductSpecific::DAST	"Probely Scanning:&nbsp;<b><span style=""font-weight: 400;"">Scan an environment closely resembling P____, including web servers, databases, etc. that can be easily R____, if required</span></b>"	"Production<br><b><span style=""font-weight: 400;"">restored</span></b>"		
+y*Hn4^z/(E	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::Snyk::ProductSpecific::DAST	"Probely Scanning:&nbsp;<b><span style=""font-weight: 400;"">Only scan targets you’re A___ to scan</span></b>"	Authorized		
+ux}K@!k)NL	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::Snyk::ProductSpecific::DAST	Probely Scanning: Skip features that send e-mail messages, open tickets, make API calls, etc; either E____ uris or D____ on the backend	Exclude<br>Disable		
+k]]f9?~QRQ	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::Snyk::ProductSpecific::DAST	What DAST solution did Veracode acquire in 2022?	Crashtest Security		
+u5Q!Jxd[5$	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::Snyk::ProductSpecific::DAST	What protocols does Probely support?<br>H____<br>H____	Http/s		
+H|(>cdbiH$	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::Snyk::ProductSpecific::DAST	Probely goal: to<i>&nbsp;E____</i>&nbsp;vulnerabilities, not actually<i>&nbsp;E____</i>&nbsp;them	"<span style=""font-style: italic;"">expose<br></span><span style=""font-style: italic;"">exploit</span>"		
+f}Tpdx5=l7	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykCollab::Snyk::ProductSpecific::DAST	Probely Login: If there is 2__ or C___, disable&nbsp;it or set it to a static value	2fa<br>Captcha		

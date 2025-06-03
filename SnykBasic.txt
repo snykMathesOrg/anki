@@ -1,0 +1,47 @@
+#separator:tab
+#html:true
+#guid column:1
+#notetype column:2
+#deck column:3
+#tags column:7
+sGX5%}%9f^	Basic	SnykBasic::Products::SAST	Security Acronym: SAST	Static Application Security Testing		
+e]kf,s?T(Z	Basic	SnykBasic::Products::SAST	What does SAST scan ? (3 things)	application’s source, binary, or byte code		
+A-IYPm7v6c	Basic	SnykBasic::Products::SAST	What is a security framework that scans&nbsp;an application’s source, binary, or byte code ?	SAST (Static Application Security Testing)		
+QU.acr-6|^	Basic	SnykBasic::Products::DAST	Acronym: DAST	Dynamic Application Security Testing		
+m0oy?yq74r	Basic	SnykBasic::Products::DAST	DAST is black/white/grey security testing?	Black		
+g[Sy4}sx%P	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykBasic::Products::SCA	SAST Acronym : SCA	Software composition analysis&nbsp;	0b7689a0-b144-4a55-a311-e1efb1cded8c	AnkiHub_Subdeck::SnykCollab::Acronyms
+"z#-FI(u#0l"	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykBasic::Products::DAST	Snyk Competitors with no DAST solution:<br>S____<br>G____<br>E____	Semgrep<br>Github<br>Endor		
+b(TiX7IjKx	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykBasic::Products::DAST	Recognized 2nd generation&nbsp;<b>Security-Oriented&nbsp;</b>DAST tool and a leader of DAST for security teams - I_____	Invicti		
+k[]Mb<tTV^	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykBasic::Products::DAST	<b>Developer-Oriented DAST Competitors:<br></b>B____<br>S____	BrightSec<br>StackHawk		
+Ox+&f/X]a4	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykBasic::Products::DAST	<b>Pentester-Focused DAST - Complementary -&nbsp;</b>a very popular tool but requires a lot of manual effort<br>B____	Burp		
+y:W,z%y+Ow	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykBasic::Products::DAST	<b>Network Scanners That Expanded to DAST:<br></b>Q____<br>R____ 7<br>T____ N____	Qualys<br>Rapid 7<br>Tenable Nessus		
+P7@e3k?vG4	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykBasic::Products::AI/ML	ML: The process of converting text into smaller units (tokens), such as words or subwords	<strong>Tokenization</strong>		
+"Dn/q6X)#Ax"	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykBasic::Products::AI/ML	ML: Known for their prowess in text, these models like GPT are revolutionizing text generation, translation, and automated writing<br><br>T____ M_____	<strong>Transformer Models</strong>		
+dy|WKO<piM	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykBasic::Products::AI/ML	ML Acronym: GPT	Generative Pretrained Transformer		
+lZ*4K6?1=v	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykBasic::Products::AI/ML	ML: What is the process of compressing a LLM to a locally hosted one called?	Distillation		
+M8gZ[0*yvt	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykBasic::Products::UniversalBroker	Universal Broker: 1 broker client currently recommends how many max connections?	1 to 25		
+Hpx}})/HZT	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykBasic::Products::UniversalBroker	Universal Broker: Broker_token now becomes (2 things)	Client_id and client_secret		
+Pw~IkNZ*:y	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykBasic::Products::UniversalBroker	First step to install snyk broker is to install:	Snyk Broker App in a Snyk Org		
+u[ULgK5:x2	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykBasic::Products::UniversalBroker	Universal Broker: second step, after creating Broker App, is to:	"create universal broker ""Deployment"" on Snyk backend"		
+O3}gyw`Hz)	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykBasic::Products::UniversalBroker	UniversalBroker: what level admin access do you need to configure?	Tenant Admin		
+j)..a!PWSj	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykBasic::Products::UniversalBroker	UniversalBroker: What happens if you delete the org where Snyk App is installed (or remove the snyk app from the org?)	It breaks universal broker		
+gixIG0hl(|	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykBasic::Products::UniversalBroker	github server app is only available in universal broker, but limited to:	1 connection per broker		
+6kSLq;$:O	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykBasic::Products::UniversalBroker	snyk-broker-config is only installed via:	npm		
+uQw!`bv,N{	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykBasic::Products::UniversalBroker	We're not calling universal broker a migration, but an:	Upgrade		
+jaiq:A]n%C	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykBasic::Products::UniversalBroker	where can customers learn about universal broker? (2)	docs, snyk learn		
+sO&?,.h))M	Basic	SnykBasic::Products::Essentials	AppRisk token - do we recommend read or read/write?	recommend read as it has broad access across the SCM		
+s,Hd+z:&3:	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykBasic::Products::DAST	DAST: Probely: Used to filter reporting	Labels		
+eXz(17]nPH	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykBasic::Products::DAST	DAST: Probely: Assign target to team is helpful for R____ and A____	Reporting and Access		
+ys0{U(ZulD	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykBasic::Products::DAST	DAST: Probely: Basic authentication requires pointing probely to the U___ and P___ fields	User and Password		
+ANLk$~jxhu	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykBasic::Products::DAST	DAST: Probely: Supports 2fa via Time-Based O__ ___ Passwords	Time-based One Time Passwords (TOTP)		
+lR;FzS~df3	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykBasic::Products::DAST	DAST: Probely: Oauth Flow, redirects, multiple pages for logins can be handled by ___ Sequence	Login Sequence		
+ifOFrr~O7*	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykBasic::Products::DAST	DAST: Probely: Recording a login sequence is done with the Probely Browser ____	extension		
+EmThGc[-]k	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykBasic::Products::DAST	DAST: Probely: Navigation sequences are created using the Probely Browser ____	Extension		
+jytf)}`rxY	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykBasic::Products::DAST	DAST: Probely: Navigation Sequences can also be created by converting _____ scripts	Selenium		
+kJg1o6Kuh2	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykBasic::Products::DAST	DAST: Probely: to not scan certain pages or path add it to the ___ list	reject		
+w$_X[ah<{Z	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykBasic::Products::DAST	DAST: Probely: to only scan part of the url subdirectory for speed add it to the ____ scope list	reduced		
+dh}ANSGJUL	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykBasic::Products::DAST	DAST: Probely: Paths to crawl and scan go in the ____ List	Seeds		
+y@_&yJdm39	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykBasic::Products::DAST	DAST: Probely: If you just want to scan NEW or UPDATED pages use the Partial Scans: ____&nbsp;	Incremental		
+"Bo+p98#hmu"	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykBasic::Products::DAST	DAST: Probely: the two major ticketing systems we support are A___ Devops and J____	Azure Devops and Jira		
+Lu!G_Np(K3	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykBasic::Products::DAST	DAST: Probely: ticket integrations are ___-directional	bi-directional		
+k]]f9?~QRQ	Basic (SnykCollab / andrew.mathes@snyk.io)	SnykBasic::Products::DAST	What DAST solution did Veracode acquire in 2022?	Crashtest Security		
